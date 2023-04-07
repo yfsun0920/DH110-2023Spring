@@ -1,11 +1,4 @@
-# DH110-2023Spring
+# DH110 Spring 2023
 ## Yifei Sun
 
-### Project Title
-
-#### Project Description
-
-##### Assignment 01
-
-
-This if the space for UX project for DH110
+This is the space for UX project about family connection.
