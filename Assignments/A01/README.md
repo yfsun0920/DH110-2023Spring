@@ -1,12 +1,14 @@
 # Assignment 01: Heuristic Evaluation
-by Yifei Sun
+### by Yifei Sun
+DGT HUM 110: User Interface and Design
 
 ## Project Idea: A Family Fitness APP
+### Tentitive Title: FFitness+ 
 Inspired by my conversation with my parents, I want to design an app that help family members to create fitness plans, workout together or individually, share data and achievements. It can encourage family members to stay fit together and promote healthy habits.
 My dad love sports and exercise every day. He cares a lot about whether I exercise regularly and have rest after sitting for a long time before the computer. I think a family fitness app will help me to be more motivated to workout with my family and live a healthier life.
 
 
-### Heuristic Evaluation
+## Heuristic Evaluation
 | Number | Heuristic | Description |
 | --- | --- | ----------- |
 | #1 | Visibility of system status | Provide timely and appropriate feedback to keep users informed of the ongoing situation |
@@ -20,7 +22,7 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 | #9 | Help users recognize, diagnose, and recover from errors | Error messages should be written in plain language, indicate the issue, and offer a constructive solution. |
 | #10 | Help and documentation | Provide documentation to help users understand how to complete tasks |
 
-### Severity Ratings
+## Severity Ratings
 | Rating | Description |
 | --- | ----------- |
 | 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
@@ -33,10 +35,10 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 Link: https://apps.apple.com/us/app/exercise-at-home-workout-app/id882240858
 
 ### Description
-Exercise: At Home Workout App provides a variety of workouts that can be done at home, including yoga, pilates, and bodyweight exercises. It also includes customized workout plans based on fitness level and goals, and allows to track progress over time. 
+Exercise: At Home Workout App (also called 7 Minute Workouts with Lazy Monster) provides a variety of workouts that can be done at home, including yoga, pilates, and bodyweight exercises. It also includes customized workout plans based on fitness level and goals, and allows to track progress over time. 
 
 ### Overall Evaluation
-Developed by a game company, the app uses gamification to create a fun and engaging experience of workout with cute avatars, animations and achievement system. Overall it has a good user experience design. It has a well-organized layout with a clear navigation system. The visual design is appealing, using bright and energetic colors. All these consistent elements are great fit for children as well as their parents as their targeted users.
+Developed by a game company, the app mainly adopts gamification method to create a fun and engaging experience of workouts with cute avatars, animations and achievement system. Overall it reveals a good user experience design. It has well-organized layouts with a clear navigation system. The visual design is appealing, using bright and energetic colors. All these consistent elements are great fit for children as well as their parents as their targeted users.
 
 ### Heuristic evaluation
 
