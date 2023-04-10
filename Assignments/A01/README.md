@@ -22,7 +22,7 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 
 
 ## App 1: Exercise: At Home Workout App
-
+![Alt text](LazyMonsterWorkoutAppLogo.png "Optional title")
 Link: https://apps.apple.com/us/app/exercise-at-home-workout-app/id882240858
 
 This app provides a variety of workouts that can be done at home, including yoga, pilates, and bodyweight exercises. It also includes customized workout plans based on fitness level and goals, and allows to track progress over time. Developed by a game company, the app uses gamification to create a fun and engaging experience of workout with cute avatars, animations and achievement system.
