@@ -9,8 +9,8 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 ### Heuristic evaluation
 | Number | Heuristic | Description |
 | --- | --- | ----------- |
-| #1 | Visibility of system status | Text |
-| #2 | Match between system and the real world | Text |
+| #1 | Visibility of system status | Provide timely and appropriate feedback to keep users informed of the ongoing situation |
+| #2 | Match between system and the real world | Present information in a natural and logical sequence that follows real-world conventions. |
 | #3 | User control and freedom | Text |
 | #4 | Consistency and standards | Text |
 | #5 | Error prevention | Text |
@@ -37,3 +37,27 @@ Exercise: At Home Workout App provides a variety of workouts that can be done at
 
 ### Overall Evaluation
 Developed by a game company, the app uses gamification to create a fun and engaging experience of workout with cute avatars, animations and achievement system. Overall it has a good user experience design. It has a well-organized layout with a clear navigation system. The visual design is appealing, using bright and energetic colors.
+
+### Heuristic evaluation
+
+#### 1. Visibility of system status
+
+#### 2. Match between system and the real world
+
+#### 3. User control and freedom
+
+#### 4. Consistency and standards
+
+#### 5. Error prevention
+
+#### 6. Recognition rather than recall
+
+#### 7. Flexibility and efficiency of user
+
+#### 8. Aesthetic and minimalist design
+
+#### 9. Help users recognize, diagnose, and recover from errors
+
+#### 10. Help and documentation
+
+
