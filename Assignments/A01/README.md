@@ -20,9 +20,20 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 | #9 | Help users recognize, diagnose, and recover from errors | Text |
 | #10 | Help and documentation | Text |
 
+### Severity Ratings
+| Rating | Description |
+| --- | ----------- |
+| 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
+| 2 | Minor usability problem: fixing this should be given low priority |
+| 3 | Major usability problem: important to fix, so should be given high priority |
+
 
 ## App 1: Exercise: At Home Workout App
-![Alt text](LazyMonsterWorkoutAppLogo.png "Optional title")
+![Alt text](Exercise-At-Home-Screenshots.png "Optional title")
 Link: https://apps.apple.com/us/app/exercise-at-home-workout-app/id882240858
 
-This app provides a variety of workouts that can be done at home, including yoga, pilates, and bodyweight exercises. It also includes customized workout plans based on fitness level and goals, and allows to track progress over time. Developed by a game company, the app uses gamification to create a fun and engaging experience of workout with cute avatars, animations and achievement system.
+### Description
+Exercise: At Home Workout App provides a variety of workouts that can be done at home, including yoga, pilates, and bodyweight exercises. It also includes customized workout plans based on fitness level and goals, and allows to track progress over time. 
+
+### Overall Evaluation
+Developed by a game company, the app uses gamification to create a fun and engaging experience of workout with cute avatars, animations and achievement system. Overall it has a good user experience design. It has a well-organized layout with a clear navigation system. The visual design is appealing, using bright and energetic colors.
