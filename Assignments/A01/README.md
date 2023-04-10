@@ -11,14 +11,14 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 | --- | --- | ----------- |
 | #1 | Visibility of system status | Provide timely and appropriate feedback to keep users informed of the ongoing situation |
 | #2 | Match between system and the real world | Present information in a natural and logical sequence that follows real-world conventions. |
-| #3 | User control and freedom | Text |
-| #4 | Consistency and standards | Text |
-| #5 | Error prevention | Text |
-| #6 | Recognition rather than recall | Text |
-| #7 | Flexibility and efficiency of use | Text |
-| #8 | Aesthetic and minimalist design | Text |
-| #9 | Help users recognize, diagnose, and recover from errors | Text |
-| #10 | Help and documentation | Text |
+| #3 | User control and freedom | Have a clearly marked exit to leave the unwanted action  |
+| #4 | Consistency and standards | Follow platform and industry conventions |
+| #5 | Error prevention | Remove conditions that are prone to errors, or verify them and offer a confirmation option |
+| #6 | Recognition rather than recall | Promote recognition through interface and reduce the amount of cognitive effort required from users |
+| #7 | Flexibility and efficiency of use | Flexible choices for both inexperienced and experienced users |
+| #8 | Aesthetic and minimalist design | Information that is irrelevant or infrequently required should not be included |
+| #9 | Help users recognize, diagnose, and recover from errors | Error messages should be written in plain language, indicate the issue, and offer a constructive solution. |
+| #10 | Help and documentation | Provide documentation to help users understand how to complete tasks |
 
 ### Severity Ratings
 | Rating | Description |
