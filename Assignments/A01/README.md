@@ -124,4 +124,114 @@ Developed by a game company, the app mainly adopts gamification method to create
 | --- | ----------- |
 | 3 | The app does not include a section for help and documentation. If users meet difficulties using some features in the app, the only way to seek for help in the app is to send email to the support team. However, this method is not efficient to solve problems quickly. Users might feel frustrated and give up using if the problem is not solved immediately. The app can imporve this by adding a section of FAQ listing questions and answers users often have. |
 
+## App Analysis 2: Geocaching
 
+![Alt text](Exercise-At-Home-Screenshots.png "Optional title")
+Link: https://apps.apple.com/us/app/exercise-at-home-workout-app/id882240858
+
+### Description
+Geocaching is an outdoor recreational activity and mobile app for families that combines elements of treasure hunting, hiking, and navigation. The app allows users to locate hidden containers, called geocaches, using GPS coordinates. Geocaching is an engaging activity for people of all ages and promotes exploration, exercise, and problem-solving skills. It also fosters a sense of community among participants, as they work together to locate hidden treasures and share their discoveries with others.
+
+### Overall Evaluation
+Geocaching is an excellent tool for families looking to bond, stay active, and explore the outdoors together. It provides a unique experience that can strengthen family connections while offering educational and recreational benefits. The app encourages families to be physically active as they search for geocaches, combining exercise with the excitement of treasure hunting. It accommodates a wide range of ages and abilities, making it an inclusive activity for the whole family.
+
+### Heuristic evaluation
+
+#### 1. Visibility of system status
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%231_1.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | The app constantly updates the user's current location on the map and displays the distance and direction to the selected geocache, providing real-time feedback on their progress towards the target. |
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | When users log their geocache finds, the app updates the cache's status, marking it as found or not found. This feedback informs users that their actions have been successful and helps them keep track of their geocaching history.|
+
+#### 2. Match between system and the real world
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 |  The app uses a map-based interface to display geocache locations, which is a familiar and intuitive representation of the real world. This helps users easily understand their surroundings and navigate to the geocaches. |
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 2 | The community has developed its own set of terms and abbreviations (e.g., "FTF" for "First to Find" or "TFTC" for "Thanks for the Cache"). These terms may be confusing to newcomers and could be better explained within the app to improve understanding. |
+
+#### 3. User control and freedom
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%233_1.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | Users can apply filters to their geocache search, such as cache size, difficulty, terrain, or geocache type, providing control over the type of geocaches they want to find. |
+
+#### 4. Consistency and standards
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%234.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | The app uses conventional layout and user flows that are very easy to understand. The four sections are clearly divided at the bottom screen with text and icons. Profile section is on the top right corner. The main screen requires the user to swipe to interact. The behavior is clearly indicated with small dots at the bottom and the card layout style. |
+
+#### 5. Error prevention
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%235.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 2 | When logging a geochache, there is not any option to undo if users click the buttons by mistake. The app can improve by adding a confirmation to prevent users from accidental mistakes. |
+
+#### 6. Recognition rather than recall
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%236.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 2 | The app uses visual cues, such as icons and color-coding, to help users recognize the status of geocaches. However, some icons does not exactly match the meaning of the function and causes confusion. |
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | Users can save geocaches to use it without Internet connection or add them to their favorites list. This enables quick access without having to remember or search for specific geocaches again. |
+
+#### 7. Flexibility and efficiency of user
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%237.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | The activity that the app develops fits people of all age groups. Different people find it engaging in various ways through different methods of searching, such as using GPS coordinates, browsing a map, or searching by location name. Users are able to choose based on their preference and levels of experience. |
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | The app has a Attributes section for every geocaches which provides accommodation information as well as suggestions to find it. The attributes also have small icon to illustrate and help users to understand quickly. |
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 3 | The app does not include a turtorial through the onboarding process. This might creates confusion for people using the app for the first time. The interface contains many numbers and jargons unique to this community, and requires explanation before the users start to explore. An onboarding experience is necessary to help users quickly fit to the community. |
+
+#### 8. Aesthetic and minimalist design
+| Rating | Evaluation  |
+| --- | ----------- |
+| 3 | The user interface design seem to be outdated and does not follow the latest design trend. There are still opportunities to further optimize the use of whitespace, ensuring that information and elements are presented in a balanced and visually appealing manner. |
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 3 | Icons and illustrations are not in consistent styles through out the app. Some illustrations have contour lines, while others are flat. This might be disruptive for users to look at them and need further improvement. |
+
+#### 9. Help users recognize, diagnose, and recover from errors
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%239.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 2 | The search function provides examples to help prevent from mistakes looking up information with code. |
+
+#### 10. Help and documentation
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%2310.PNG" width=20% height=20%>
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | The app has a quick guide and help center, providing access to FAQs and troubleshooting guides through links. This could help users diagnose and resolve issues effectively and enjoy their journey. |
