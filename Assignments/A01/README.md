@@ -31,7 +31,8 @@ My dad love sports and exercise every day. He cares a lot about whether I exerci
 
 
 ## App Analysis 1: Exercise: At Home Workout App
-![Alt text](Exercise-At-Home-Screenshots.png "Optional title")
+![Alt text](Images/Exercise-At-Home-Screenshots.png "Optional title")
+
 Link: https://apps.apple.com/us/app/exercise-at-home-workout-app/id882240858
 
 ### Description
@@ -44,7 +45,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 1. Visibility of system status
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%231_1.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%231_1.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -61,7 +62,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 3. User control and freedom
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%233_1.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%233_1.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -73,7 +74,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 4. Consistency and standards
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%234.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%234.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -81,7 +82,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 5. Error prevention
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%235.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%235.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -89,7 +90,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 6. Recognition rather than recall
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%236.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%236.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -97,7 +98,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 7. Flexibility and efficiency of user
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%237.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%237.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -110,7 +111,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 9. Help users recognize, diagnose, and recover from errors
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%239.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%239.PNG" width=20% height=20%>
 
  Rating | Evaluation  |
 | --- | ----------- |
@@ -118,7 +119,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 10. Help and documentation
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%2310.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%2310.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -126,8 +127,9 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 ## App Analysis 2: Geocaching
 
-![Alt text](Exercise-At-Home-Screenshots.png "Optional title")
-Link: https://apps.apple.com/us/app/exercise-at-home-workout-app/id882240858
+![Alt text](Images/Geocaching_Logo.jpeg "Optional title")
+
+Link: https://www.geocaching.com/play
 
 ### Description
 Geocaching is an outdoor recreational activity and mobile app for families that combines elements of treasure hunting, hiking, and navigation. The app allows users to locate hidden containers, called geocaches, using GPS coordinates. Geocaching is an engaging activity for people of all ages and promotes exploration, exercise, and problem-solving skills. It also fosters a sense of community among participants, as they work together to locate hidden treasures and share their discoveries with others.
@@ -139,7 +141,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 1. Visibility of system status
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%231_1.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%231.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -161,15 +163,11 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 3. User control and freedom
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%233_1.PNG" width=20% height=20%>
-
 | Rating | Evaluation  |
 | --- | ----------- |
 | 1 | Users can apply filters to their geocache search, such as cache size, difficulty, terrain, or geocache type, providing control over the type of geocaches they want to find. |
 
 #### 4. Consistency and standards
-
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%234.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -177,15 +175,13 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 5. Error prevention
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%235.PNG" width=20% height=20%>
-
 | Rating | Evaluation  |
 | --- | ----------- |
 | 2 | When logging a geochache, there is not any option to undo if users click the buttons by mistake. The app can improve by adding a confirmation to prevent users from accidental mistakes. |
 
 #### 6. Recognition rather than recall
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%236.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%236.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -197,11 +193,11 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 7. Flexibility and efficiency of user
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%237.PNG" width=20% height=20%>
-
 | Rating | Evaluation  |
 | --- | ----------- |
 | 1 | The activity that the app develops fits people of all age groups. Different people find it engaging in various ways through different methods of searching, such as using GPS coordinates, browsing a map, or searching by location name. Users are able to choose based on their preference and levels of experience. |
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%237_2.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -222,7 +218,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 9. Help users recognize, diagnose, and recover from errors
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%239.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%239.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -230,7 +226,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 10. Help and documentation
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%2310.PNG" width=20% height=20%>
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%2310.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
