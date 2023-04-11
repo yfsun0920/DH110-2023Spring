@@ -45,7 +45,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 1. Visibility of system status
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%231_1.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%231_1.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -62,7 +62,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 3. User control and freedom
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%233_1.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%233_1.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -74,7 +74,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 4. Consistency and standards
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%234.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%234.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -82,7 +82,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 5. Error prevention
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%235.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%235.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -90,7 +90,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 6. Recognition rather than recall
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%236.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%236.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -98,7 +98,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 7. Flexibility and efficiency of user
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%237.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%237.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -111,7 +111,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 9. Help users recognize, diagnose, and recover from errors
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%239.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%239.PNG" width=20% height=20%>
 
  Rating | Evaluation  |
 | --- | ----------- |
@@ -119,7 +119,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 
 #### 10. Help and documentation
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/LazyMonster_%2310.PNG" width=20% height=20%>
+<img src="Images/LazyMonster_%2310.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -141,7 +141,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 1. Visibility of system status
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%231.PNG" width=20% height=20%>
+<img src="Images/Geocaching_%231.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -181,7 +181,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 6. Recognition rather than recall
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%236.PNG" width=20% height=20%>
+<img src="Images/Geocaching_%236.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -197,7 +197,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 | --- | ----------- |
 | 1 | The activity that the app develops fits people of all age groups. Different people find it engaging in various ways through different methods of searching, such as using GPS coordinates, browsing a map, or searching by location name. Users are able to choose based on their preference and levels of experience. |
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%237_2.PNG" width=20% height=20%>
+<img src="Images/Geocaching_%237_2.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -218,7 +218,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 9. Help users recognize, diagnose, and recover from errors
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%239.PNG" width=20% height=20%>
+<img src="Images/Geocaching_%239.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -226,7 +226,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 #### 10. Help and documentation
 
-<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Geocaching_%2310.PNG" width=20% height=20%>
+<img src="Images/Geocaching_%2310.PNG" width=20% height=20%>
 
 | Rating | Evaluation  |
 | --- | ----------- |
