@@ -43,6 +43,9 @@ Developed by a game company, the app mainly adopts gamification method to create
 ### Heuristic evaluation
 
 #### 1. Visibility of system status
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%231_1.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
 | 1 | In the workout session, the app has a countdown timer to help users know about current position during the process. To imporve, it can probably use a progress bar that is constantly shrinking to give the feeling of time. In addition, before starting each session, the app can provide an estimated time beforehand and let the users have an expectation. |
@@ -57,30 +60,45 @@ Developed by a game company, the app mainly adopts gamification method to create
 | 1 | The app does a great job using visual language and avoiding jargons. A cartoon character is guiding through the workout process, telling what movement to make by directly showing instead of depicting. There is not much text in this app, and most of them are plain language and easy to understand. |
 
 #### 3. User control and freedom
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%233_1.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
-| 3 | The 'update profile' setting is problematic. When I enter the 'update profile' section, it directs me to the onboarding process where I have to enter my name, choose an avatar, and set my height and weight. I have to go through the entire process one by one, and there is no button to quit this section. |
+| 3 | The 'update profile' setting is problematic. When I enter the 'update profile' section, it directs me to the onboarding process where I have to enter my name, choose an avatar, and set my height and weight again. I have to go through the entire process one by one, and there is no button to quit this section. |
 
 | Rating | Evaluation  |
 | --- | ----------- |
 | 2 | Sound effects and music appear in each workout session. However, there is no indication of the music elements on the screen. Though there is a sound setting in the setting section of the app, users are not able to control the music when they are in a workout session. The music also comes out really abruptly, and there is no indication for it. To improve the experience, it is better to have a small icon on the screen or a notification before the session starts to inform the users about setting the music. |
 
 #### 4. Consistency and standards
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%234.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
 | 1 | The app uses conventional layout and user flows that are very easy to understand. The four sections are clearly divided at the bottom screen with text and icons. Profile section is on the top right corner. The main screen requires the user to swipe to interact. The behavior is clearly indicated with small dots at the bottom and the card layout style. |
 
 #### 5. Error prevention
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%235.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
 | 2 | In each workout session, there is always an exit button in the top left corner of the screen. When the user clicks the button, it immediately exits the workout session and goes back to the main page. I think this makes it too easy to enter and exit a session, and users may have less motivation to complete the whole session. I would suggest having an extra window that asks users to confirm whether they want to exit and encourages them to stay and complete the tasks. |
 
 #### 6. Recognition rather than recall
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%236.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
 | 3 | There is problem with recognizing previous information in the "Update Profile" setting. I have to re-enter all the information since it doesn't display the previous content I entered when I first created my account. Users would feel frustrated when clicking into this section and finding out that there is no way to exit unless they close the app or re-enter all their personal information again. |
 
 #### 7. Flexibility and efficiency of user
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%237.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
 | 1 | In the setting, the app allows the users to select workout difficulty anytime according to their preference. It is direct and easy to find with clear indications workout session time information. The setting helps users aiming for different goals using the app to find it useful. |
@@ -91,11 +109,17 @@ Developed by a game company, the app mainly adopts gamification method to create
 | 1 | The aesthetic of the app is super clean and engaging. There is not irrelevant information on the screen. Instructions are mostly illustrated by cartoon characters and animations. These elements are great fit for children who are targeted users of this app. |
 
 #### 9. Help users recognize, diagnose, and recover from errors
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%239.PNG" width=20% height=20%>
+
  Rating | Evaluation  |
 | --- | ----------- |
 | 2 | There is not error message in the workouts session pages. In the profile setting section, there is a constraint on the values that can be input for the user's weight. If the number does not match a common human value, the system cannot proceed, and an inactive 'continue' button is displayed. The app can improve this by displaying error messages such as 'Please input a correct value.' |
 
 #### 10. Help and documentation
+
+<img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/LazyMonster_%2310.PNG" width=20% height=20%>
+
 | Rating | Evaluation  |
 | --- | ----------- |
 | 3 | The app does not include a section for help and documentation. If users meet difficulties using some features in the app, the only way to seek for help in the app is to send email to the support team. However, this method is not efficient to solve problems quickly. Users might feel frustrated and give up using if the problem is not solved immediately. The app can imporve this by adding a section of FAQ listing questions and answers users often have. |
