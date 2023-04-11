@@ -47,6 +47,10 @@ Developed by a game company, the app mainly adopts gamification method to create
 | --- | ----------- |
 | 1 | In the workout session, the app has a countdown timer to help users know about current position during the process. To imporve, it can probably use a progress bar that is constantly shrinking to give the feeling of time. In addition, before starting each session, the app can provide an estimated time beforehand and let the users have an expectation. |
 
+| Rating | Evaluation  |
+| --- | ----------- |
+| 3 | The app has problems with accessible design. While music and sound effects are important parts of guiding workout sessions, there is currently no accommodation for users who are hard of hearing or deaf. The app only provides animations and verbal instructions, which can be a barrier to accessibility for these users. To achieve better accessibility, the app can provide a text-based version that provides instructions in written form, which can help users who have trouble hearing to experience the app. |
+
 #### 2. Match between system and the real world
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -55,18 +59,30 @@ Developed by a game company, the app mainly adopts gamification method to create
 #### 3. User control and freedom
 | Rating | Evaluation  |
 | --- | ----------- |
-| 1 | In each workout session there is always a exit button on the top left corner of the screen. As the user click the button, it immediately exits the workout session and goes back to the main page. I think this makes entering and exiting a session too easy and the users have less motivation to complete the whole session. I would suggest to have an extra window asking to ensure whether the users want to exit and encourage them to stay to complete the tasks. |
+| 3 | The 'update profile' setting is problematic. When I enter the 'update profile' section, it directs me to the onboarding process where I have to enter my name, choose an avatar, and set my height and weight. I have to go through the entire process one by one, and there is no button to quit this section. Additionally, I have to re-enter all the information since it doesn't display the previous content I entered when I first created my account. Users would feel frustrated when clicking into this section and finding out that there is no way to exit unless they close the app or re-enter all their personal information again.|
+
+| Rating | Evaluation  |
+| --- | ----------- |
+| 2 | Sound effects and music appear in each workout session. However, there is no indication of the music elements on the screen. Though there is a sound setting in the setting section of the app, users are not able to control the music when they are in a workout session. The music also comes out really abruptly, and there is no indication for it. To improve the experience, it is better to have a small icon on the screen or a notification before the session starts to inform the users about setting the music. |
 
 #### 4. Consistency and standards
 | Rating | Evaluation  |
 | --- | ----------- |
-| 1 | The app uses conventional layout and user flows that are very easy to understand. The four sections are clearly divided at the bottom screen with text and icons. Profile section is on the top right corner. The main screen requires the user to swipe to interact. The behavior is clearly indicated with small dots at the bottom and the card layout style.  |
+| 1 | The app uses conventional layout and user flows that are very easy to understand. The four sections are clearly divided at the bottom screen with text and icons. Profile section is on the top right corner. The main screen requires the user to swipe to interact. The behavior is clearly indicated with small dots at the bottom and the card layout style. |
 
 #### 5. Error prevention
+| Rating | Evaluation  |
+| --- | ----------- |
+| 2 | In each workout session, there is always an exit button in the top left corner of the screen. When the user clicks the button, it immediately exits the workout session and goes back to the main page. I think this makes it too easy to enter and exit a session, and users may have less motivation to complete the whole session. I would suggest having an extra window that asks users to confirm whether they want to exit and encourages them to stay and complete the tasks. |
 
 #### 6. Recognition rather than recall
 
 #### 7. Flexibility and efficiency of user
+| Rating | Evaluation  |
+| --- | ----------- |
+| 1 | In the setting, the app allows the users to select workout difficulty anytime according to their preference. It is direct and easy to find with clear indications workout session time information. The setting helps users aiming for different goals using the app to find it useful. |
+
+
 
 #### 8. Aesthetic and minimalist design
 | Rating | Evaluation  |
