@@ -59,7 +59,7 @@ Developed by a game company, the app mainly adopts gamification method to create
 #### 3. User control and freedom
 | Rating | Evaluation  |
 | --- | ----------- |
-| 3 | The 'update profile' setting is problematic. When I enter the 'update profile' section, it directs me to the onboarding process where I have to enter my name, choose an avatar, and set my height and weight. I have to go through the entire process one by one, and there is no button to quit this section. Additionally, I have to re-enter all the information since it doesn't display the previous content I entered when I first created my account. Users would feel frustrated when clicking into this section and finding out that there is no way to exit unless they close the app or re-enter all their personal information again.|
+| 3 | The 'update profile' setting is problematic. When I enter the 'update profile' section, it directs me to the onboarding process where I have to enter my name, choose an avatar, and set my height and weight. I have to go through the entire process one by one, and there is no button to quit this section. |
 
 | Rating | Evaluation  |
 | --- | ----------- |
@@ -76,13 +76,14 @@ Developed by a game company, the app mainly adopts gamification method to create
 | 2 | In each workout session, there is always an exit button in the top left corner of the screen. When the user clicks the button, it immediately exits the workout session and goes back to the main page. I think this makes it too easy to enter and exit a session, and users may have less motivation to complete the whole session. I would suggest having an extra window that asks users to confirm whether they want to exit and encourages them to stay and complete the tasks. |
 
 #### 6. Recognition rather than recall
+| Rating | Evaluation  |
+| --- | ----------- |
+| 3 | There is problem with recognizing previous information in the "Update Profile" setting. I have to re-enter all the information since it doesn't display the previous content I entered when I first created my account. Users would feel frustrated when clicking into this section and finding out that there is no way to exit unless they close the app or re-enter all their personal information again. |
 
 #### 7. Flexibility and efficiency of user
 | Rating | Evaluation  |
 | --- | ----------- |
 | 1 | In the setting, the app allows the users to select workout difficulty anytime according to their preference. It is direct and easy to find with clear indications workout session time information. The setting helps users aiming for different goals using the app to find it useful. |
-
-
 
 #### 8. Aesthetic and minimalist design
 | Rating | Evaluation  |
@@ -90,7 +91,9 @@ Developed by a game company, the app mainly adopts gamification method to create
 | 1 | The aesthetic of the app is super clean and engaging. There is not irrelevant information on the screen. Instructions are mostly illustrated by cartoon characters and animations. These elements are great fit for children who are targeted users of this app. |
 
 #### 9. Help users recognize, diagnose, and recover from errors
-
+ Rating | Evaluation  |
+| --- | ----------- |
+| 2 | There is not error message in the workouts session pages. In the profile setting section, there is a constraint on the values that can be input for the user's weight. If the number does not match a common human value, the system cannot proceed, and an inactive 'continue' button is displayed. The app can improve this by displaying error messages such as 'Please input a correct value.' |
 
 #### 10. Help and documentation
 | Rating | Evaluation  |
