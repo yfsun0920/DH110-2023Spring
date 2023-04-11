@@ -4,7 +4,7 @@ DGT HUM 110: User Interface and Design
 
 ## Project Idea: A Family Fitness APP
 ### Tentitive Title: FFitness+ 
-Inspired by my conversation with my parents, I want to design an app that help family members to create fitness plans, workout together or individually, share data and achievements. It can encourage family members to stay fit together and promote healthy habits.
+Inspired by my conversation with my parents, I want to design an app that help family members to create fitness plans, workout together or individually, share data and achievements. I would like to adopt gamefication elements to encourage family members to stay fit together and promote healthy habits.
 My dad love sports and exercise every day. He cares a lot about whether I exercise regularly and have rest after sitting for a long time before the computer. I think a family fitness app will help me to be more motivated to workout with my family and live a healthier life.
 
 
@@ -173,7 +173,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 | Rating | Evaluation  |
 | --- | ----------- |
-| 1 | The app uses conventional layout and user flows that are very easy to understand. The four sections are clearly divided at the bottom screen with text and icons. Profile section is on the top right corner. The main screen requires the user to swipe to interact. The behavior is clearly indicated with small dots at the bottom and the card layout style. |
+| 1 | The app follows established design patterns and conventions commonly found in other apps, such as using recognizable icons and interaction behaviors. |
 
 #### 5. Error prevention
 
@@ -226,7 +226,7 @@ Geocaching is an excellent tool for families looking to bond, stay active, and e
 
 | Rating | Evaluation  |
 | --- | ----------- |
-| 2 | The search function provides examples to help prevent from mistakes looking up information with code. |
+| 1 | The search function provides examples to help prevent from mistakes looking up information with code. |
 
 #### 10. Help and documentation
 
