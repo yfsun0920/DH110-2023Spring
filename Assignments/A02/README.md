@@ -1,5 +1,7 @@
 # Assignment 02: Usability Evaluation with Users
+by Yifei Sun
 
+DGT HUM 110: User Interface and Design
 
 ## Introduction: Exercise: At Home App
 
