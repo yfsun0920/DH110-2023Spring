@@ -8,7 +8,20 @@ Exercise: At Home Workout App (also called 7 Minute Workouts with Lazy Monster) 
 
 ## Purpose of Usability Testing
 
-## MMethodology
+## Methodology
+
+The entire process was conducted on Google Forms.
+
+Process:
+- Introduction
+- Informed consent
+- Background questions
+- Pre-test questions
+- Three tasks
+- Post-test questionnaire
+- System usability scale (SUS)
+- Production satisfaction card
+- Demographic questions
 
 ## Links
 - <a href = "https://forms.gle/kmFUZQn6jD9w6qV87"> UT Survey
