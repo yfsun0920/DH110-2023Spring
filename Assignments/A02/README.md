@@ -6,8 +6,10 @@ DGT HUM 110: User Interface and Design
 ## Introduction: Exercise: At Home App
 Exercise: At Home Workout App (also called 7 Minute Workouts with Lazy Monster) is a fitness app that provides a variety of workouts that can be done at home, such as yoga, pilates, and bodyweight exercises. The app also includes customized workout plans based on fitness level and goals, and allows for tracking progress over time.
 
+Some usability issues I discovered during heuristic evulation involves the interactions during the workout sessions, the easy-to-use of the profile and setting page, and the consistency in overall design. I came up with some scenarios to interact with the product and conduct a usability testing to gain more insights. 
+
 ## Purpose of Usability Testing
-The purpose of the usability testing is to find out how to improve the app from the user's perspective. Usability involves effectiveness, efficiency, and satisfaction of the product design. Usability testing collects empirical data based on empirical data. The data is collected from the observation on how the users interact with the product.
+The purpose of the usability testing is to find out how to improve the app from the user's perspective. Usability involves effectiveness, efficiency, and satisfaction of the product design. Usability testing collects empirical data from the observation on how the users interact with the product.
 
 ## Methodology
 
