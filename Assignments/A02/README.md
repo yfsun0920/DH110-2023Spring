@@ -21,10 +21,11 @@ Process:
 - Post-test questionnaire
 - System usability scale (SUS)
 - Production satisfaction card
-- Demographic questions
+- Demographic data
 
 ## Links
 - <a href = "https://forms.gle/kmFUZQn6jD9w6qV87"> UT Survey
-- <a href = "https://forms.gle/kmFUZQn6jD9w6qV87"> Pilot UT Video
+- <a href = "https://youtu.be/eqhQPSIey4M"> Pilot UT Video
 
 ## Reflection
+Overall the testing went on smoothly
