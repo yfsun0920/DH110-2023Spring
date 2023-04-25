@@ -61,8 +61,14 @@ The **transcript** of the interview can be found <a href = "https://docs.google.
 ## ✅ Step06: Organize/Documentation
 
 ### Insights from the Interview
+- Lack of motiviation even with gamefication elements (Part 1 14:24)
+> I have played Pokemen Go for a very short period of time. And I think it does work because these things are cute. I find them so I have to walk to some locations to find them. And I think that there's a software that tracks my water every day. And yeah, and the water I drink will just turn to the water that I plant to flowers. I think it doesn't keep me motivated because it's just very new and fresh to me when I first and then after maybe two days, I will just know that my flower will not grow. So I will just not drink more water anymore.
+
 - Need for personalization and reliance on recommendation algorithm (Part 2 6:40)
 > I think one thing is that I'm very familiar with how it works. And also the searching results have also already fitted to my preferences. So it will show the videos that I'm most used to opening....the software has already gotten used to my preferences.
+
+- Family members care about fitness data and know about each others' daily life (Part 2 11:28)
+> Yeah, I think my mom has me as a close friend. So she put me on the top. If I walk like zero steps, she would notice and then ask me why you didn't go out.
 
 - Frustration about keeping all family members motivated to do exercise together (Part 2 18:45)
 > I think that they usually respond to my shares but sometimes they might say they would do the exercise later. It is not as efficient as if I asked them in person.
@@ -70,13 +76,16 @@ The **transcript** of the interview can be found <a href = "https://docs.google.
 - Concerns about family members' well beings and willingness to make changes (Part 2 19:43)
 > I feel like they should be more motivated because everyone is not in good health. And we need to exercise and sometimes we all get too lazy. I just feel like if we have a chance to do it together either in person or online that might be a good experience and also a good opportunity to just relax from work.
 
+- Digital technology might interfere the immerse experience spending with family (Part 3 07:41)
+>  I think bowling activities are kind of, I would place it in the category of leisure. I don't think it requires a lot of skills... So I feel like for that kind of activity, I don't need the technology to help with any guidance. And it's also better for us to immerse in that. 
+
 
 ### Reflection
-Through the research process, I built empathy with my participant and tried to understand her by putting myself into her situation. By understanding from her perspectives I tried to give up all the preassumptions I had before. I learned about the needs, preferences, and challenges families face when engaging in fitness activities together. Personalization and flexibility become important to keep all family members motivated. I also gained insights into the role technology can play in supporting family fitness activities and bridging gaps in communication, motivation, and engagement.
+Through the research process, I built empathy with my participant and tried to understand her by putting myself into her situation. By understanding from her perspectives I tried to give up all the preassumptions I had before. I learned about the needs, preferences, and challenges families face when engaging in fitness activities together. Personalization and flexibility become important to keep all family members motivated. I also gained insights into the role technology playing both positive and probably negative effects on family connection. Whereas it can play in supporting family fitness activities and bridging gaps in motivation and communication for long distance, it might interfere the connecting experience spending time with families in person.
 
 I also find out a lot of problems when I am review the recording and transcript. There are many thing I can improve if I do it again in the future. First, I should prepare a more comprehensive interview guideline. Merely having a list of questions was not sufficient. Sometimes, participant's answers were unrelated to the questions I wanted to ask, requiring me to provide more guidance and instruction to help her express thoughts. Moreover, I need to be more flexible in adapting my questions during the process. I noticed that the participant occasionally addressed questions I planned to ask later, but I still repeated the questions, which was unnecessary.
 
-Another area for improvement is gaining insights into the participant's interactions with seniors, such as her grandparents. Although I mentioned it in the questions, she might have overlooked that part. I should have included more follow-up questions regarding that aspect, as understanding my target users is part of the research goal.
+Another area for improvement is to imporve my way of guidance. I sometimes gave too many examples and the participant would simply chose from what I said. This might lead to some biased result. I should give the participant more time to think about herself and try to ask questions in differnt ways instead of providing her choices to select.
 
 
 
