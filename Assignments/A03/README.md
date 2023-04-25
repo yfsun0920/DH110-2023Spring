@@ -21,10 +21,13 @@ DGT HUM 110: User Interface and Design
 ## ✅ Step02: Target users
 
 ### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+- The targeted users have a wide age range, from young children to elderly family members, with varying fitness levels and abilities. They care about family members' well being and are willing to live a healthy lifestyle. They are looking for ways to encourage healthy habits and physical activity in their families, as well as to participate in fitness activities as a family. They would not need any particular level of expertise
 
 ### In which context (where, why, under which conditions) would the users do that activity? 
+- There are several ways users can engage with family fitness. User will be able to access to health data and fitness goals of their family members anywhere using the phone. When they are with their family members, they can also do physical activities together at home or outdoor.
 
 ### What would the users usually do in order to complete that activity? 
+- The goal of family fitness is to stay active and improve overall health. Families would plan fitness activities that align with their goals and preferences and engage in the fitness activities together. They would also track their progess and encourage each other to stay motivated.
 
 
 ## Step03: Pick an qualitative research method (or a combination/adaptation of methods) 
