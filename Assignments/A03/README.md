@@ -72,7 +72,7 @@ The **transcript** of the interview can be found <a href = "https://docs.google.
 
 
 ### Reflection
-Through the research process, I learned about the needs, preferences, and challenges families face when engaging in fitness activities together. Personalization and flexibility become important to keep all family members motivated. Additionally, I gained insights into the role technology can play in supporting family fitness activities and bridging gaps in communication, motivation, and engagement.
+Through the research process, I built empathy with my participant and tried to understand her by putting myself into her situation. By understanding from her perspectives I tried to give up all the preassumptions I had before. I learned about the needs, preferences, and challenges families face when engaging in fitness activities together. Personalization and flexibility become important to keep all family members motivated. I also gained insights into the role technology can play in supporting family fitness activities and bridging gaps in communication, motivation, and engagement.
 
 I also find out a lot of problems when I am review the recording and transcript. There are many thing I can improve if I do it again in the future. First, I should prepare a more comprehensive interview guideline. Merely having a list of questions was not sufficient. Sometimes, participant's answers were unrelated to the questions I wanted to ask, requiring me to provide more guidance and instruction to help her express thoughts. Moreover, I need to be more flexible in adapting my questions during the process. I noticed that the participant occasionally addressed questions I planned to ask later, but I still repeated the questions, which was unnecessary.
 
