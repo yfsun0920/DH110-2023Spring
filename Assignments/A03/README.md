@@ -76,7 +76,7 @@ The **transcript** of the interview can be found <a href = "https://docs.google.
 - Concerns about family members' well beings and willingness to make changes (Part 2 19:43)
 > I feel like they should be more motivated because everyone is not in good health. And we need to exercise and sometimes we all get too lazy. I just feel like if we have a chance to do it together either in person or online that might be a good experience and also a good opportunity to just relax from work.
 
-- Digital technology might interfere the immerse experience spending with family (Part 3 07:41)
+- Digital technology might interfere the immersive experience spending with family (Part 3 07:41)
 >  I think bowling activities are kind of, I would place it in the category of leisure. I don't think it requires a lot of skills... So I feel like for that kind of activity, I don't need the technology to help with any guidance. And it's also better for us to immerse in that. 
 
 
