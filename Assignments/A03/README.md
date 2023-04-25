@@ -46,22 +46,37 @@ The session consisted of the following sections:
 - I ask the participant about expectations and frustrations about family fitness and look for opportunities to improve the experience.
 
 
-## Participatory Research Materials
+## ✅ Step04: Plan the details
 
-1. Contextual Inquiry Guide
+### Contextual Inquiry Guide
 
 Please find my **script** for this interview <a href = "https://docs.google.com/document/d/1bbDS_UHfSXhyatYSk7SmhgSO22o3Gw_QU-vkkKvKc2Y/edit?usp=sharing"> here </a>.
 
-2. User Data
+## ✅ Step05: Conduct the research
 
 Please find the **recording** of the interview  <a href = "https://youtu.be/Bl8qYmRjhtU"> here </a>.
 
 The **transcript** of the interview can be found <a href = "https://docs.google.com/document/d/1Y2VLet57rcx5re96Wkx-A6_y3no6mHT4o9GR2Z0M2ps/edit?usp=sharing"> here </a>.
 
+## ✅ Step06: Organize/Documentation
+
+### Insights from the Interview
+- Need for personalization and reliance on recommendation algorithm (Part 2 6:40)
+> I think one thing is that I'm very familiar with how it works. And also the searching results have also already fitted to my preferences. So it will show the videos that I'm most used to opening....the software has already gotten used to my preferences.
+
+- Frustration about keeping all family members motivated to do exercise together (Part 2 18:45)
+> I think that they usually respond to my shares but sometimes they might say they would do the exercise later. It is not as efficient as if I asked them in person.
+
+- Concerns about family members' well beings and willingness to make changes (Part 2 19:43)
+> I feel like they should be more motivated because everyone is not in good health. And we need to exercise and sometimes we all get too lazy. I just feel like if we have a chance to do it together either in person or online that might be a good experience and also a good opportunity to just relax from work.
 
 
+### Reflection
+Through the research process, I learned about the needs, preferences, and challenges families face when engaging in fitness activities together. Personalization and flexibility become important to keep all family members motivated. Additionally, I gained insights into the role technology can play in supporting family fitness activities and bridging gaps in communication, motivation, and engagement.
 
+I also find out a lot of problems when I am review the recording and transcript. There are many thing I can improve if I do it again in the future. First, I should prepare a more comprehensive interview guideline. Merely having a list of questions was not sufficient. Sometimes, participant's answers were unrelated to the questions I wanted to ask, requiring me to provide more guidance and instruction to help her express thoughts. Moreover, I need to be more flexible in adapting my questions during the process. I noticed that the participant occasionally addressed questions I planned to ask later, but I still repeated the questions, which was unnecessary.
 
+Another area for improvement is gaining insights into the participant's interactions with seniors, such as her grandparents. Although I mentioned it in the questions, she might have overlooked that part. I should have included more follow-up questions regarding that aspect, as understanding my target users is part of the research goal.
 
 
 
