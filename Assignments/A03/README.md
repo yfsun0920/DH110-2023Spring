@@ -31,11 +31,34 @@ DGT HUM 110: User Interface and Design
 
 
 ## Step03: Pick an qualitative research method (or a combination/adaptation of methods) 
-by covert / overt observation
-by active / passive / participatory interaction * 
-Or something you learned on your own (refer to the field guideline by IDEO, p.39-42)
+
+The research method I chose is context inquary, which is a combination of participatory observation, and interview.
+The session consisted of the following sections:
+
+1. Introduction and Background questions a. I wanted to learn about what is the fitness routine of family willing to live a healthy life, and how my project could support those daily tasks. I also asked about the attitude towards past experience.
+
+2. Participatory Observation
+
+- I observed 3 activities: doing some exercise with a family member, reacting to grandparents concern about their health, and sharing information about family well being. During each activity, I ask the participant to think aloud and after that I ask follow-up questions regarding her thoughts.
+
+3. Follow-up questions
+
+- I ask the participant about expectations and frustrations about family fitness and look for opportunities to improve the experience.
+
 
 ## Participatory Research Materials
+
+1. Contextual Inquiry Guide
+
+Please find my **script** for this interview <a href = "https://docs.google.com/document/d/1bbDS_UHfSXhyatYSk7SmhgSO22o3Gw_QU-vkkKvKc2Y/edit?usp=sharing"> here </a>.
+
+2. User Data
+
+Please find the **recording** of the interview  <a href = "https://youtu.be/Bl8qYmRjhtU"> here </a>.
+
+The **transcript** of the interview can be found <a href = "https://docs.google.com/document/d/1Y2VLet57rcx5re96Wkx-A6_y3no6mHT4o9GR2Z0M2ps/edit?usp=sharing"> here </a>.
+
+
 
 
 
