@@ -4,7 +4,9 @@ DGT HUM 110
 
 ## Purpose of UX Storytelling
 
-The purpose of UX storytelling in the family fitness project is to create a more engaging, intuitive, and user-centric experience for the app's users. By crafting relatable narratives focused on the needs, motivations, and goals of the target personas, the designer can better empathize with the users and understand the challenges they face. These stories provide valuable insights and context, guiding the design process and helping to create solutions that resonate with more users. The storytelling helps to ensure that the project effectively solves problems for users, fostering stronger family connections and promoting healthier lifestyles.
+- The purpose of UX storytelling in this family fitness app is to create a narrative that illustrates how the family fitness app can be used to achieve the goals and motivations of each persona. By incorporating the different personas' needs, desires, and frustrations into a relatable story, UX storytelling can create empathy for the designer to better understand users and create a more user-friendly experience. 
+
+- UX storytelling also helps the designer to identify potential pain points and improve the user journey by highlighting areas where users may encounter frustration. The stories provide valuable insights and context, guiding the design process and helping to create solutions that resonate with users.
 
 ## Design Features
 1. Display daily fitness data of all family members (eg.how many steps walked, calories moved, minutes of exercise)
@@ -29,10 +31,10 @@ The purpose of UX storytelling in the family fitness project is to create a more
 
 #### Why Jessica is using the app
 
-- Jessica is a full-time marketing manager and mother of two. She has a goal to involve her family in engaging and healthy activities that foster communication, teamwork, and promote a healthier lifestyle. She believes that finding exercise routines and activities suitable for each family member's interests and fitness levels will help achieve this goal. The family fitness app it offers an approach to create personalized fitness plans and cater to her each family members’ needs and preferences.
+- Jessica is a full-time marketing manager and mother of two. She has a goal to involve her family in engaging and healthy activities that foster communication, teamwork, and promote a healthier lifestyle. She believes that finding exercise routines and activities suitable for each family member's interests and fitness levels will help achieve this goal. However, she does not have much time after work to research about physical activities. She has limited knowledge about how to do a fitness plan. The family fitness app offers an approach to create personalized fitness plans and cater to her each family members’ needs and preferences in one click.
 
 #### How Jessica is using the app
-- One Sunday morning, Jessica explores that the family fitness app has a personalized fitness plan feature. She inputs each family member's age, fitness level, interests, and relevant health information, prompting the app to generate an exercise plan with a list of tutorials tailored to each individual's preferences and abilities. Jessica previews the instructions and tutorials, considering whether each will be suitable for her son Tommy who loves to play sports and her 68-year-old father Harold, who enjoys low-impact activities. With a well-rounded plan in mind, Jessica schedules these activities into their shared family calendar and notifies her family through the app. As they follow the personalized exercise tutorials throughout the week, Jessica observes her family members enjoy the customized activities and feel motivated to complete them.
+- One Sunday morning, Jessica explores that the family fitness app has a personalized fitness plan feature. She inputs each family member's age, fitness level, interests, and relevant health information, prompting the app to generate an exercise plan with a list of tutorials tailored to each individual's preferences and abilities. Tha app provides detailed information about each plan, which saves time for Jessica to look for information online herself. Jessica previews the instructions and tutorials, considering whether each will be suitable for her son, who loves to play sports, and her 68-year-old father, who enjoys low-impact activities. With a well-rounded plan in mind, Jessica schedules these activities into their shared family calendar and notifies her family through the app. As they follow the personalized exercise tutorials throughout the week, Jessica observes her family members enjoy the customized activities and feel motivated to complete them.
 
 ### 3. Tommy
 
