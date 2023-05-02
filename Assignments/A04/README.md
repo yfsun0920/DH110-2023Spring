@@ -15,6 +15,18 @@ DGT HUM 110
 
 ## Personas & Empathy Map
 
+### Persona 1: Harold
+<img src="Images/Harold's Persona.png">
+<img src="Images/Harold's Empathy Map.png">
+
+### Persona 2: Jessica
+<img src="Images/Jessica's Persona.png">
+<img src="Images/Jessica's Empathy Map.png">
+
+### Persona 3: Tommy
+<img src="Images/Tommy's Persona.png">
+<img src="Images/Tommy's Empathy Map.png">
+
 ## User Scenarios and Journey Maps
 
 ### 1. Harold
@@ -27,6 +39,8 @@ DGT HUM 110
 
 - One evening after dinner, Harold opens the family fitness app on his phone and navigates to the section where he can check each family members’ daily fitness data. He sees that his grandson has exceeded his daily step goal. Feeling proud of his grandson's achievement, Harold sends him a congratulatory message. Meanwhile, he notices that his daughter, who is always busy with her work, is close to reaching her daily exercise minutes goal. Wanting to positively impact her progress, Harold sends her an uplifting message, encouraging her to complete her goal before the day ends. At the same time, Harold is inspired by his family's progress and motivated to lead by example. He decides to go for a walk around the neighborhood to reach his own daily step goal. While walking, he receives a notification that his daughter has reached her goal, filling him with pride and happiness. Upon returning home, Harold updates his progress on the app and shares a message with his family about his evening walk, hoping to inspire them to keep up with their fitness journey.
 
+<img src="Images/Harold's Journey Map.png">
+
 ### 2. Jessica
 
 #### Why Jessica is using the app
@@ -35,6 +49,8 @@ DGT HUM 110
 
 #### How Jessica is using the app
 - One Sunday morning, Jessica explores that the family fitness app has a personalized fitness plan feature. She inputs each family member's age, fitness level, interests, and relevant health information, prompting the app to generate an exercise plan with a list of tutorials tailored to each individual's preferences and abilities. Tha app provides detailed information about each plan, which saves time for Jessica to look for information online herself. Jessica previews the instructions and tutorials, considering whether each will be suitable for her son, who loves to play sports, and her 68-year-old father, who enjoys low-impact activities. With a well-rounded plan in mind, Jessica schedules these activities into their shared family calendar and notifies her family through the app. As they follow the personalized exercise tutorials throughout the week, Jessica observes her family members enjoy the customized activities and feel motivated to complete them. Jessica is satisfied with the perfect plan that saves both her time and energy.
+
+<img src="Images/Jessica's Journey Map.png">
 
 ### 3. Tommy
 
@@ -45,3 +61,6 @@ DGT HUM 110
 #### How Tommy is using the app
 
 - One weekday afternoon after school, Tommy decides to join an ongoing family step challenge, aiming to walk the most steps within a week. As Tommy sets out to walk around the neighborhood, he decides to take different routes to explore new areas and keep things interesting. He opens a map that provides him with real-time updates on his progress. It also awards him with colorful badges for achieving milestones at 5,000, 10,000, and 15,000 steps in a single day. Tommy receives notifications whenever he surpasses one of his family members on the challenge's leaderboard. The friendly competition adds to his excitement, as each notification comes with cheers or playful groans, depending on who is being overtaken. During this time, Tommy notices his grandfather’s reaction to the challenge, which is motivated his progress. Tommy sees his grandfather increasing the frequency and distance of his daily walks, in an effort to climb the leaderboard and stay ahead. The family step challenge not only encourages Tommy to be more active but also brings the family closer together as they share their achievements and cheer each other on. Tommy feels excited that his action has contributed to the family's fitness routines, making a difference in their overall well-being. 
+
+<img src="Images/Tommy's Journey Map.png">
+
