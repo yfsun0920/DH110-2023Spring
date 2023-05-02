@@ -29,7 +29,7 @@ DGT HUM 110
 
 ## User Scenarios and Journey Maps
 
-### 1. Harold
+### 1. Harold's scenario with data monitoring feature
 
 #### Why Harold is using the app
 
@@ -41,7 +41,7 @@ DGT HUM 110
 
 <img src="Images/Harold's Journey Map.png">
 
-### 2. Jessica
+### 2. Jessica's scenario with personalized plan feature
 
 #### Why Jessica is using the app
 
@@ -52,7 +52,7 @@ DGT HUM 110
 
 <img src="Images/Jessica's Journey Map.png">
 
-### 3. Tommy
+### 3. Tommy's scenario with gamification feature
 
 #### Why Tommy is using the app
 
