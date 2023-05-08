@@ -1,5 +1,6 @@
 # DGT HUM 110 / Spring 2023
-## by Yifei Sun
+
+by Yifei Sun
 
 This is the space for UX project about family connection.
 
