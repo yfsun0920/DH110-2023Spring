@@ -33,6 +33,7 @@ Here is more information on the personas and scenarios.
 3. Incorporate gamification elements, such as competition and badges, to motivate family members to engaged in more activities
 
 ### Purpose of the Low-fidelity Prototyping
+The purpose of the low-fidelity prototyping in the design process is to visualize the app's festures and seek validation of design concepts and user flows at an early stage. By creating a simple visual representation of the app's layout, content, structure, and functionality, designers can quickly iterate on ideas, identify potential usability issues, and evaluate whether it meets the goals of the target users. Additionally, low-fidelity prototyping allows designers to gather feedback from users, ensuring that the design decisions align with their expectations and preferences. This will leads to a more efficient design process and a better overall user experience in the final product.
 
 ## Wireframes & Wireflows
 
