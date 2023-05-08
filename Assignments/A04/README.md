@@ -1,6 +1,6 @@
 # Assignment 04: Persona + Scenario
 ### by Yifei Sun
-DGT HUM 110
+DGT HUM 110: User Interface and Design
 
 ## Purpose of UX Storytelling
 
