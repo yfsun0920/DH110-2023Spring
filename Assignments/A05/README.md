@@ -1,6 +1,7 @@
 # Assignment 05: Low Fidelity Prototype
 
-### by Yifei Sun | DGT HUM 110 Spring 2023 | May 8, 2023
+### by Yifei Sun
+DGT HUM 110: User Interface and Design
 
 ## Overview
 
