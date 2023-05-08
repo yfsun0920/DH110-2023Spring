@@ -7,29 +7,30 @@ DGT HUM 110: User Interface and Design
 
 ### User Research
 
-The user research has shown that families are looking for ways to stay connected, motivated, and engaged in a healthy lifestyle. They value personalization, continuous motivation, and the ability to share and track family fitness data. Currently they face challenges in keeping their family members engaged in regular exercise and are concerned about their overall well-being. They seek opportunities to improve their health through shared fitness experiences.
+The user research has shown that families are looking for ways to stay connected, motivated, and engaged in a healthy lifestyle. They value inclusiveness, continuous motivation, and the ability to share and track family fitness data.
 
 Based on my contextual inquiry, I will focus on these three research questions:
 
 - How might we keep users motivated and engaged about family activities?
-- How might we bring locals together to contribute toward keeping San Jose clean and safe?
-- How might we create an intuitive design so users can accomplish tasks quickly and effortlessly?
+- How might we improve the monitoring and communication between family members about their fitness and life?
+- How might we create an inclusive experience to satisfy diverse interests and fitness levels in a family?
 
 Here is more information on the user research.
-
-
 
 ### Persona
 
 The target users are family members of different ages, fitness levels, and interests, who seek to improve their well-being, stay connected, and motivate each other in their fitness journeys. I created personas and scenarios centered around features that would solve each research question.
 
-- A man with medium technical literacy and wants to have transparent and timely updates on his reports.
-- A new undergraduate with high technical literacy and wants to browse and search for other reports in her community.
-- An elderly woman with low technical literacy and wants to submit reports quickly and effortlessly.
-- 
+- A middle school boy who loves to play team sports and wants to spend more time with his parents.
+- A buy working mother who aims to improve the overall health of the familiy and set a positive example for her children..
+- An elderly man who cares about his children and grandchildren's well-being and wants to stay active himself.
+
 Here is more information on the personas and scenarios.
 
 ### Features
+1. Display daily fitness data of all family members (eg.how many steps walked, calories moved, minutes of exercise)
+2. Customize fitness plans and provide tutorials for exercise that fit each family member's interest and fitness
+3. Incorporate gamification elements, such as competition and badges, to motivate family members to engaged in more activities
 
 ### Purpose of the Low-fidelity Prototyping
 
