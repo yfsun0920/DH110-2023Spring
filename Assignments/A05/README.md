@@ -28,7 +28,7 @@ The target users are family members of different ages, fitness levels, and inter
 Here is more information on the personas and scenarios.
 
 ### Features
-1. Display daily fitness data of all family members (eg.how many steps walked, calories moved, minutes of exercise)
+1. Display daily fitness data of all family members
 2. Customize fitness plans and provide tutorials for exercise that fit each family member's interest and fitness
 3. Incorporate gamification elements, such as competition and badges, to motivate family members to engaged in more activities
 
