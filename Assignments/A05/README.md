@@ -41,9 +41,10 @@ View wireframes and wireflows in <a href = "https://www.figma.com/file/CZlXnb6g2
 ![image](Images/Wireframes-Figma.png)
 
 ## Testing
-View evidence of testing <a href = "https://drive.google.com/file/d/1X_Sissd6IrV1P5sCGeJbV43Va8BaTFTu/view?usp=share_link"> here </a>
 
 ![image](Images/TestingWireflow.png)
+
+![image](Images/TestingPhoto.JPG)
 
 ## Reflection
 
