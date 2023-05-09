@@ -28,9 +28,22 @@ The target users are family members of different ages, fitness levels, and inter
 Here is more information on the <a href = "https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A04/README.md"> personas and scenarios </a>
 
 ### Features
-1. Display daily fitness data of all family members
-2. Customize fitness plans and provide tutorials for exercise that fit each family member's interest and fitness
-3. Incorporate gamification elements, such as competition and badges, to motivate family members to engaged in more activities
+
+#### 1. Display daily fitness data of all family members and communicate effectively
+- Select which family's member's data to view
+- View fitness data such as how many steps walked on that day
+- Send message to the family member and remind to complete daily fitness goal
+
+#### 2. Customize fitness plans and provide tutorials for exercise that fit each family member's interest and fitness
+- Input basic info and fitness goal for a family member
+- Generate a fitness plan for the family member
+- Add the plan to a shared family calendar
+
+#### 3. Incorporate gamification elements, such as competition and badges, to motivate family members to engaged in more activities
+- Look at a leader board and know the rank of daily steps
+- See recent activities of other family members
+- Like the post and encourage them to keep progress
+- Gain beautiful badges from achieving certain accomplishments
 
 ### Purpose of the Low-fidelity Prototyping
 The purpose of the low-fidelity prototyping in the design process is to visualize the app's features and seek validation of design concepts and user flows at an early stage. By creating a simple visual representation of the app's layout, content, structure, and functionality, designers can quickly iterate on ideas, identify potential usability issues, and evaluate whether it meets the goals of the target users. Additionally, low-fidelity prototyping allows designers to gather feedback from users, ensuring that the design decisions align with their expectations and preferences. This will leads to a more efficient design process and a better overall user experience in the final product.
