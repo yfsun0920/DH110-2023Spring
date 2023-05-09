@@ -42,9 +42,10 @@ View wireframes and wireflows in <a href = "https://www.figma.com/file/CZlXnb6g2
 
 ## Testing
 
+![image](Images/TestingPhoto.JPG)
+
 ![image](Images/TestingWireflow.png)
 
-![image](Images/TestingPhoto.JPG)
 
 ## Reflection
 
