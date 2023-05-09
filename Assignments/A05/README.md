@@ -36,7 +36,7 @@ Here is more information on the <a href = "https://github.com/yfsun0920/DH110-20
 The purpose of the low-fidelity prototyping in the design process is to visualize the app's features and seek validation of design concepts and user flows at an early stage. By creating a simple visual representation of the app's layout, content, structure, and functionality, designers can quickly iterate on ideas, identify potential usability issues, and evaluate whether it meets the goals of the target users. Additionally, low-fidelity prototyping allows designers to gather feedback from users, ensuring that the design decisions align with their expectations and preferences. This will leads to a more efficient design process and a better overall user experience in the final product.
 
 ## Wireframes & Wireflows
-View wireframes and wireflows in <a href = "https://www.figma.com/file/CZlXnb6g29cyaJ69TkcDPR/Low-fidelity-Prototype?type=design&node-id=0%3A1&t=mkXwlZfStE5DySX2-1"> Figma </a>
+View wireframes and wireflows in <a href = "https://www.figma.com/file/CZlXnb6g29cyaJ69TkcDPR/Low-fidelity-Prototype?type=design&node-id=0%3A1&t=mkXwlZfStE5DySX2-1"> Figma file </a>
 
 ## Testing
 View evidence of testing <a href = "https://drive.google.com/file/d/1X_Sissd6IrV1P5sCGeJbV43Va8BaTFTu/view?usp=share_link"> here </a>
