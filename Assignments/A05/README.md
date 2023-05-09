@@ -15,17 +15,17 @@ Based on my contextual inquiry, I will focus on these three research questions:
 - How might we improve the monitoring and communication between family members about their fitness and life?
 - How might we create an inclusive experience to satisfy diverse interests and fitness levels in a family?
 
-Here is more information on the user research.
+Here is more information on the <a href = "https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A03/README.md"> user research </a>
 
 ### Persona
 
 The target users are family members of different ages, fitness levels, and interests, who seek to improve their well-being, stay connected, and motivate each other in their fitness journeys. I created personas and scenarios centered around features that would solve each research question.
 
 - A middle school boy who loves to play team sports and wants to spend more time with his parents.
-- A buy working mother who aims to improve the overall health of the familiy and set a positive example for her children..
+- A busy working mother who aims to improve the overall health of the familiy and set a positive example for her children..
 - An elderly man who cares about his children and grandchildren's well-being and wants to stay active himself.
 
-Here is more information on the personas and scenarios.
+Here is more information on the <a href = "https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A04/README.md"> personas and scenarios </a>
 
 ### Features
 1. Display daily fitness data of all family members
@@ -36,6 +36,8 @@ Here is more information on the personas and scenarios.
 The purpose of the low-fidelity prototyping in the design process is to visualize the app's festures and seek validation of design concepts and user flows at an early stage. By creating a simple visual representation of the app's layout, content, structure, and functionality, designers can quickly iterate on ideas, identify potential usability issues, and evaluate whether it meets the goals of the target users. Additionally, low-fidelity prototyping allows designers to gather feedback from users, ensuring that the design decisions align with their expectations and preferences. This will leads to a more efficient design process and a better overall user experience in the final product.
 
 ## Wireframes & Wireflows
+
+View wireframes and wireflows in <a href = "https://www.figma.com/file/CZlXnb6g29cyaJ69TkcDPR/Low-fidelity-Prototype?type=design&node-id=0%3A1&t=mkXwlZfStE5DySX2-1"> Figma </a>
 
 ## Testing
 
