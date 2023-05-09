@@ -51,7 +51,7 @@ The purpose of the low-fidelity prototyping in the design process is to visualiz
 ## Wireframes & Wireflows
 View wireframes and wireflows in <a href = "https://www.figma.com/file/CZlXnb6g29cyaJ69TkcDPR/Low-fidelity-Prototype?type=design&node-id=0%3A1&t=mkXwlZfStE5DySX2-1"> Figma file </a>
 
-![image](Images/Wireframes-Figma.png)
+![image](Images/Low-fidelity.png)
 
 ## Testing
 
