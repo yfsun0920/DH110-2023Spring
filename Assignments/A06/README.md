@@ -21,17 +21,21 @@ The purpose of this interface design was not only to create a functional and use
 
 ![image](Images/Main.png)
 
-For readability on screens and modern aesthetic, I choose to start with Sans Serif fonts. I try three fonts: Poppins, Roboto, and Graphik.
-
-I finally decide to use Poppins for its geometric, rounded characteristics, which make it look friendly and approachable. These align well with the fitness application that creates an engaging and warm environment for all family members regardless of age.
-
-Poppins is a versatile font that maintains good legibility across a wide range of sizes and weights. This ensures that all titles, instructions and fitness statistics can be easily read and understood.
-
 ### Typography Variations
 ![image](Images/Typography%20Variations.png)
 
+- For readability on screens and modern aesthetic, I choose to start with Sans Serif fonts. I try three fonts: Poppins, Roboto, and Graphik.
+
+- I finally decide to use Poppins for its geometric, rounded characteristics, which make it look friendly and approachable. These align well with the fitness application that creates an engaging and warm environment for all family members regardless of age.
+
+- Poppins is a versatile font that maintains good legibility across a wide range of sizes and weights. This ensures that all titles, instructions and fitness statistics can be easily read and understood.
+
 ### Spacing Variations
 ![image](Images/Spacing%20Variations.png)
+
+- The 8px spacing provides a compact look, and it might have made the interface feel too crowded. It could have led to difficulties in distinguishing between different elements on the screen. The 24px spacing provides ample space between elements, enhancing legibility, but large gaps allow less information to be displayed on one screen. User might have to constantly scroll vertically to view the full content.
+
+- I choose the 16px spacing for its balance between legibility and efficient use of space. It allowed for clear separation between different elements, improving the readability of the interface. 16px is a common standard in many design systems due to its compatibility with a wide range of screen sizes and resolutions, making it a safe and reliable choice.
 
 ### Shape Variations
 ![image](Images/Shape%20Variations.png)
@@ -63,7 +67,10 @@ I ask the tester to first look at the design for five seconds, and then ask them
 
 ## Accessibility (color-contrast) check
 
+I checked the contrast between the main text components of the app including backgrounds and texts. Both the light mode and dark mode color palettes pass the WCAG guidelines.
+
 ![image](Images/Color%20Palette%20(Light%20Mode)%20Accessibility%20Check.png)
+
 ![image](Images/Color%20Palette%20(Dark%20Mode)%20Accessibility%20Check.png)
 
 ## Design System
