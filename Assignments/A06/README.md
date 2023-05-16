@@ -14,3 +14,16 @@ The purpose of this interface design was not only to create a functional and use
 
 ### Process
 
+## Links to Figma File and Prototype
+Figma file with screen design variations
+
+## Screen Interface Designs
+For readability on screens and modern aesthetic, I choose to start with Sans Serif fonts. I try three fonts: Poppins, Roboto, and Graphik.
+
+I finally decide to use Poppins for its geometric, rounded characteristics, which make it look friendly and approachable. These align well with the fitness application that creates an engaging and warm environment for all family members regardless of age.
+
+Poppins is a versatile font that maintains good legibility across a wide range of sizes and weights. This ensures that all titles, instructions and fitness statistics can be easily read and understood.
+
+<image>
+  
+  
