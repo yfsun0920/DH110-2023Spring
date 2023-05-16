@@ -27,14 +27,16 @@ I finally decide to use Poppins for its geometric, rounded characteristics, whic
 
 Poppins is a versatile font that maintains good legibility across a wide range of sizes and weights. This ensures that all titles, instructions and fitness statistics can be easily read and understood.
 
+### Typography Variations
 ![image](Images/Typography%20Variations.png)
 
+### Spacing Variations
 ![image](Images/Spacing%20Variations.png)
 
+### Shape Variations
 ![image](Images/Shape%20Variations.png)
 
-![image](Images/Shape%20Variations.png)
-
+### Color Variations
 ![image](Images/Color%20Palette%20(Light%20Mode).png)
 
 ![image](Images/Color%20Palette%20(Dark%20Mode).png)
