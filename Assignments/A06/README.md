@@ -14,6 +14,8 @@ The purpose of this interface design was not only to create a functional and use
 
 ### Process
 
+The design process starts from understanding target users. Considering their needs and preferences, I select the color palette and typography that both aligns with the app's goals and enhances user experience. Shape and layout decisions are made to facilitate intuitive navigation. I also need to take considerations on how different elements interact and guide the user through the interface. Conducting usability testing at the end is important to validate design choices. From a 5 second impression test, I want to ensure that the interface is not only visually appealing but also user-friendly and functional. This iterative process continues until the design is optimized for the intended user experience.
+
 ## Links to Figma File and Prototype
 <a href = "https://www.figma.com/file/f1EACnj0NWnsMQFhAqcooE/Let's-Fit-Design-System?type=design&node-id=0%3A1&t=ccXm49ebEWVrGO8p-1"> Figma file </a> with screen design variations
 
@@ -106,4 +108,8 @@ I checked the contrast between the main text components of the app including bac
 
 ## Design System
 ![image](Images/Design%20System.png)
+
+## Summary of Graphical Design Decisions
+
+The interface design decisions for the family fitness app are based on the understanding of target users and an overall consideration of consistency. The primary color selected is purple, symbolizing energy and playfulness, with a palette expansion to incorporate complementary colors for varying decorative elements. Poppins is chosen for its readability and approachability. It looks better considering the overall aethetics for its rounded edges. Shapes in the interface were primarily rounded rectangles with a 20px corner radius, adding to the app's friendly feel. Layout decisions prioritized clean, intuitive design, utilizing a grid system for alignment, and a 16px spacing standard between elements for balance. The design choices are validated and refined through a 5 second usability testing.
 
