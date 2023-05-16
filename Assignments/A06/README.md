@@ -40,10 +40,20 @@ The purpose of this interface design was not only to create a functional and use
 ### Shape Variations
 ![image](Images/Shape%20Variations.png)
 
+- When choosing the corner radius, I consider the aesthetic tone of the overall user experience.
+
+- The 8px radius creates a semi-angular look. The sharpness might not align with the soft, friendly, and inclusive visual language that a family app typically embodies.
+
+- A 16px radius was also tested. While it does soften the overall look, it might not fully express the approachability and inclusiveness you're looking to imbue in your design.
+
+- I choose the 20px corner radius because of the decision to create a inclusive user interface that align with the progress circles.  It balances with other design elements to maintain consistency and reliability.
+
 ### Color Variations
 ![image](Images/Color%20Palette%20(Light%20Mode).png)
 
 ![image](Images/Color%20Palette%20(Dark%20Mode).png)
+
+- Purple is a color that can appeal to a wide demographic. It is often appreciated by both genders and across different age groups, which fits family members. The color has good contrast with both light and dark colors, making it a versatile choice that works well for text, buttons, and other UI elements against various backgrounds.
 
 ## Impression Test
 
