@@ -63,6 +63,9 @@ I ask the tester to first look at the design for five seconds, and then ask them
 
 ## Accessibility (color-contrast) check
 
+![image](Images/Color%20Palette%20(Light%20Mode)%20Accessibility%20Check.png)
+![image](Images/Color%20Palette%20(Dark%20Mode)%20Accessibility%20Check.png)
+
 ## Design System
 
 
