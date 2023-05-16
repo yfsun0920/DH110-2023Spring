@@ -17,6 +17,10 @@ The purpose of this interface design was not only to create a functional and use
 ## Links to Figma File and Prototype
 <a href = "https://www.figma.com/file/f1EACnj0NWnsMQFhAqcooE/Let's-Fit-Design-System?type=design&node-id=0%3A1&t=ccXm49ebEWVrGO8p-1"> Figma file </a> with screen design variations
 
+<a href = "https://www.figma.com/proto/f1EACnj0NWnsMQFhAqcooE/Let's-Fit-Design-System?page-id=0%3A1&type=design&node-id=34-947&viewport=14%2C-62%2C1.03&scaling=scale-down"> Figma Prototype </a> of the final screen design
+
+<a href = "https://www.figma.com/file/CZlXnb6g29cyaJ69TkcDPR/LetsFit!-Low-Fidelity-Prototype?type=design&node-id=0%3A1&t=Awna14b9ORovGBXo-1"> Wireframes and Wireflows </a>
+
 ## Screen Interface Designs
 
 ![image](Images/Main.png)
@@ -53,7 +57,9 @@ The purpose of this interface design was not only to create a functional and use
 
 ![image](Images/Color%20Palette%20(Dark%20Mode).png)
 
-- Purple is a color that can appeal to a wide demographic. It is often appreciated by both genders and across different age groups, which fits family members. The color has good contrast with both light and dark colors, making it a versatile choice that works well for text, buttons, and other UI elements against various backgrounds.
+- Thinking about some keywords around the family fitness app, I select blue, orange and purple since they provide a feeling of energetic, playful, and friendly.
+
+- I choose purple as primary color since it can appeal to a wide demographic. It is often appreciated by both genders and across different age groups, which fits family members. The color has good contrast with both light and dark colors, making it a versatile choice that works well for text, buttons, and other UI elements against various backgrounds.
 
 ## Impression Test
 
@@ -71,9 +77,24 @@ I ask the tester to first look at the design for five seconds, and then ask them
 - What was your impression of the design?
 
 ### Insight from Quotes
+- Overall impression fits the goal of the app
+> looks like it's kind of like a mix of fitness tracking and social media. [00:01:00.01]
 
 - Connects elements to those in apps that often uses
-> I think I remember seeing kind of something that looks like Instagram stories...
+> I think I remember seeing kind of something that looks like Instagram stories... [00:01:24.21]
+
+> It did remind me of Instagram a little. [00:03:14.08]
+
+- Simplistic, clean interface design
+> I was just gonna say overall it looks really neat. [00:03:08.20]
+
+> It looks very friendly and inviting. [00:03:29.22]
+
+- The sytle seems to target younger users
+> Um It gave me like young adult millennial vibes. [00:02:21.22]
+
+### Summary from Impression Test
+The testers can quickly identify the purpose of the app as a tool for family fitness and health tracking. The choice of imagery, color, and text seemed to effectively communicate the app's main functions. They have positive impression over the design for its simplicity, intuitiveness, and visually pleasing color scheme. However, they suggested some areas of improvement for considering a wider range of users such as old people.
 
 ## Accessibility (color-contrast) check
 
@@ -84,5 +105,5 @@ I checked the contrast between the main text components of the app including bac
 ![image](Images/Color%20Palette%20(Dark%20Mode)%20Accessibility%20Check.png)
 
 ## Design System
-
+![image](Images/Design%20System.png)
 
