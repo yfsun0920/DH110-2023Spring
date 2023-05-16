@@ -52,7 +52,7 @@ The design process starts from understanding target users. Considering their nee
 
 - A 16px radius was also tested. While it does soften the overall look, it might not fully express the approachability and inclusiveness you're looking to imbue in your design.
 
-- I choose the 20px corner radius because of the decision to create a inclusive user interface that align with the progress circles.  It balances with other design elements to maintain consistency and reliability.
+- I choose the 20px corner radius in order to create an inclusive user interface and align with the progress circles. It balances with other design elements to maintain consistency and reliability.
 
 ### Color Variations
 ![image](Images/Color%20Palette%20(Light%20Mode).png)
