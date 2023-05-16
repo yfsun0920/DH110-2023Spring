@@ -15,7 +15,7 @@ The purpose of this interface design was not only to create a functional and use
 ### Process
 
 ## Links to Figma File and Prototype
-Figma file with screen design variations
+<a href = "https://www.figma.com/file/f1EACnj0NWnsMQFhAqcooE/Let's-Fit-Design-System?type=design&node-id=0%3A1&t=ccXm49ebEWVrGO8p-1"> Figma file </a> with screen design variations
 
 ## Screen Interface Designs
 
@@ -40,4 +40,29 @@ Poppins is a versatile font that maintains good legibility across a wide range o
 ![image](Images/Color%20Palette%20(Light%20Mode).png)
 
 ![image](Images/Color%20Palette%20(Dark%20Mode).png)
+
+## Impression Test
+
+Link to the <a href = "https://youtu.be/jTplI5S_XvE"> Impression Test Video </a>
+
+### Pocess
+
+In order to measure what information users take away and what impression they get when viewing a design, I conduct a five second impression test with two of the potential users.
+
+I ask the tester to first look at the design for five seconds, and then ask them to recall what they have seen and guide them with some questions:
+- What is the purpose of the page?
+- What are the main elements you can recall?
+- Who do you think the intended audience is?
+- Did the design/brand appear trustworthy?
+- What was your impression of the design?
+
+### Insight from Quotes
+
+- Connects elements to those in apps that often uses
+> I think I remember seeing kind of something that looks like Instagram stories...
+
+## Accessibility (color-contrast) check
+
+## Design System
+
 
