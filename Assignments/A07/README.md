@@ -75,6 +75,8 @@ Link to <a href="https://www.figma.com/proto/moFDPg2xgv1G4evtUB07uD/LetsFit!-Hig
 
 ![image](Images/Revise-2.png)
 
+![image](Images/Plan-Wireflow.png)
+
 - 3.  Message Inbox
 
 ![image](Images/Revise-3.png)
