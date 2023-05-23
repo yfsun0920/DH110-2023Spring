@@ -28,18 +28,19 @@ The process begins with the translation of low-fidelity wireframes into high-fid
 
 ## Wireflows
 
-<a href="https://www.figma.com/file/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=6SLW5MI5feMVBgVT-1"> Figma file </a> of wireframes with graphic designs
+Link to the <a href="https://www.figma.com/file/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=6SLW5MI5feMVBgVT-1"> Figma file </a> of interface designs and wireflows
 
 ![image](Images/High-Fi%20Wireflow.png)
 
 ## Interactive Prototype
 
-Link to the <a href="https://www.figma.com/proto/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=1-2&viewport=1012%2C880%2C0.14&scaling=scale-down&starting-point-node-id=1%3A2"> Figma Prototype </a>
+Link to the <a href="https://www.figma.com/proto/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=1-2&viewport=1012%2C880%2C0.14&scaling=scale-down&starting-point-node-id=1%3A2"> Figma Interactive Prototype </a>
 
+![image](Images/Figma%20Prototype.png)
 
 ## Cognitive Walkthrough
 
-Link to the <a href ="https://youtu.be/B42TCDAJSf8"> video </a> of cognitive walkthrough
+Link to the <a href ="https://youtu.be/B42TCDAJSf8"> video of cognitive walkthrough </a>
 
 ### Process
 Cognitive walkthrough is a usability testing method that explores the intuitiveness of a product. It involves simulating typical user tasks and asking probing questions at each step, aiming to identify potential gaps a new user might face.
@@ -56,7 +57,7 @@ Overall I found out that I became more confident in conducting user testing comp
 
 ### Area of Improvement
 
-Based on the feedback, revisions should focus on enhancing the clarity and usability of the calendar on the Plan page. I will also figure out the animation of the interactive prototype to make it easy to understand by pressing different tabs. 
+Based on the feedback, revisions should focus on enhancing the clarity and usability of the calendar on the Plan page. I also need to figure out the animation of the interactive prototype which makes pressing tabs easy to understand. 
 
 
 
