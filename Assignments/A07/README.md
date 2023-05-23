@@ -6,6 +6,8 @@ DGT HUM 110: User Interface and Design
 ## Project Description
 LetsFit! is a Family Fitness App designed to help families engage in physical activities together while fostering connection, communication, and a healthier lifestyle. It offers features including monitoring family members' daily fitness data, providing personalized fitness plans, and incorporating gamification elements to keep users motivated and engaged.
 
+![image](Images/Project%20Description.png)
+
 ## Purpose of Interactive Prototype
 The purpose of creating an interactive prototype is to bring the Family Fitness App to life in a way that is both visually appealing and functionally representative of the final product. The process requires a thorough understanding of the user flow, the app's functionality, and interaction design. By creating an interactive prototype, designers can simulate the actual user experience, which is important for identifying and addressing potential usability issues.
 
