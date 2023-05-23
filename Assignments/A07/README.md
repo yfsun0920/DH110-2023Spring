@@ -59,5 +59,25 @@ Overall I found out that I became more confident in conducting user testing comp
 
 Based on the feedback, revisions should focus on enhancing the clarity and usability of the calendar on the Plan page. I also need to figure out the animation of the interactive prototype which makes pressing tabs easy to understand. 
 
+## Iterations: Prototype Version 2
+
+Based on the cognitive walkthrough and my own revisions, I redesign several pages and the interactions to improve the user experience.
+
+Link to <a href="https://www.figma.com/file/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?type=design&node-id=72%3A318&t=6SLW5MI5feMVBgVT-1"> Figma File </a> of interface design **v2**
+Link to <a href="https://www.figma.com/proto/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?page-id=72%3A318&type=design&node-id=72-1351&viewport=5391%2C1129%2C1.06&scaling=scale-down&starting-point-node-id=72%3A499"> Figma Interactive Prototype </a> **v2**
+
+- Information Box
+
+![image](Images/Revise-1.png)
+
+- Calendar View
+
+![image](Images/Revise-2.png)
+
+- Message Inbox
+
+![image](Images/Revise-3.png)
+
+
 
 
