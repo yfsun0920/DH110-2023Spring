@@ -39,3 +39,23 @@ Link to the <a href=""> Figma Prototype </a>
 ## Cognitive Walkthrough
 
 Link to the <a href ="https://youtu.be/B42TCDAJSf8"> video </a> of cognitive walkthrough
+
+### Process
+Cognitive walkthrough is a usability testing method that explores the intuitiveness of a product. It involves simulating typical user tasks and asking probing questions at each step, aiming to identify potential gaps a new user might face.
+
+During the process, I asked the tester to go over all four tasks of my app following each steps. She also has some time navigating throughout the app herself. Then I ask her questions about overall feelings and thought over specific details in the design.
+
+### Summary of Findings
+
+The cognitive walkthrough went smoothly overall and the design seems to have been well-received. The tester was able to navigate through all four tasks smoothly, indicating that the user flow and interface are intuitive and easy to follow. She loved the visual designs and found it engaging.
+
+However, the tester had some confusion at first sight of the Plan page. The calendar functionality was not immediately clear to the tester. 
+
+Overall I found out that I became more confident in conducting user testing compared to before. As the process went on, I had a clearer structure of my product and improved my ability to guide through a testing. I felt more comfortable asking follow-up questions to receive insightful feedbacks
+
+### Area of Improvement
+
+Based on the feedback, revisions should focus on enhancing the clarity and usability of the calendar on the Plan page. I will also figure out the animation of the interactive prototype to make it easy to understand by pressing different tabs. 
+
+
+
