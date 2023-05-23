@@ -25,3 +25,9 @@ The process begins with the translation of low-fidelity wireframes into high-fid
 3. View daily step leaderboard and achievements
 
 4. Monitor family members’ fitness progress and send motivational messages
+
+## Wireframes
+
+<a href=""> Figma file </a> of wireframes with graphic designs
+
+![image](Images/High-Fi%20Wireframe.png)
