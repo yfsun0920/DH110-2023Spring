@@ -28,6 +28,14 @@ The process begins with the translation of low-fidelity wireframes into high-fid
 
 ## Wireframes
 
-<a href=""> Figma file </a> of wireframes with graphic designs
+<a href="https://www.figma.com/file/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=6SLW5MI5feMVBgVT-1"> Figma file </a> of wireframes with graphic designs
 
 ![image](Images/High-Fi%20Wireframe.png)
+
+## Interactive Prototype
+
+Link to the <a href=""> Figma Prototype </a>
+
+## Cognitive Walkthrough
+
+Link to the <a href ="https://youtu.be/B42TCDAJSf8"> video </a> of cognitive walkthrough
