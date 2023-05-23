@@ -26,15 +26,16 @@ The process begins with the translation of low-fidelity wireframes into high-fid
 
 4. Monitor family members’ fitness progress and send motivational messages
 
-## Wireframes
+## Wireflows
 
 <a href="https://www.figma.com/file/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=6SLW5MI5feMVBgVT-1"> Figma file </a> of wireframes with graphic designs
 
-![image](Images/High-Fi%20Wireframe.png)
+![image](Images/High-Fi%20Wireflow.png)
 
 ## Interactive Prototype
 
-Link to the <a href=""> Figma Prototype </a>
+Link to the <a href="https://www.figma.com/proto/moFDPg2xgv1G4evtUB07uD/LetsFit!-High-Fidelity-Prototype?page-id=0%3A1&type=design&node-id=1-2&viewport=1012%2C880%2C0.14&scaling=scale-down&starting-point-node-id=1%3A2"> Figma Prototype </a>
+
 
 ## Cognitive Walkthrough
 
