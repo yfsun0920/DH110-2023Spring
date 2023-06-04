@@ -17,6 +17,15 @@
     <link rel="" href="">
     <!-- for linking to an external file, like a font or a Stylesheet -->
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+
     <script src=""></script>
     <!-- for linking to an external script-->
 
@@ -26,24 +35,25 @@
         body {
             max-width: 1280px;
             margin: auto;
-            margin-top: 4rem;
+            margin-top: 0rem;
             margin-bottom: 8rem;
             background-color: #E7E5F1;
-            font-family: sans-serif;
-
+            font-family: 'Poppins', sans-serif;
         }
 
         h1 {
             text-align: left;
             color: #34334C;
             font-size: 4rem;
-            font-weight: bold;
+            font-weight: 700;
         }
 
         h2 {
             text-align: left;
             color: #34334C;
             margin-bottom: 2em;
+            font-size: 2rem;
+            font-weight: 700;
         }
 
         h3 {
@@ -51,6 +61,17 @@
             color: #34334C;
             margin-top: 2em;
             margin-bottom: 1em;
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        h4 {
+            text-align: left;
+            color: #34334C;
+            margin-top: 1em;
+            margin-bottom: 1em;
+            font-size: 1.1rem;
+            font-weight: 400;
         }
 
         p {
@@ -105,14 +126,38 @@
         }
 
         .title-div {
-            margin: auto;
-            background-color: #faf9fc00;
-            margin: 2rem;
-            padding: 4rem;
-            border-radius: 1rem;
-            text-align: left;
-
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0;
+            margin-left: 5%;
+            margin-right: 5%;
+            padding: 0em;
+            border-radius: 0rem;
+            background-color: transparent;
         }
+
+        .text {
+            margin: 0rem;
+            padding: 0rem;
+            border-radius: 0rem;
+            background-color: transparent;
+            width: 55%;
+        }
+
+        .image {
+            margin: 0rem;
+            padding: 0rem;
+            border-radius: 0rem;
+            background-color: transparent;
+            width: 40%;
+        }
+
+        .image img {
+            max-width: 100%;
+            height: auto;
+        }
+
 
         img {
             max-width: 100%;
@@ -142,6 +187,35 @@
 
             margin-top: 4em;
         }
+
+        .description-column-container {
+            max-width: 900px;
+            margin: auto;
+            margin-bottom: 2em;
+            padding: 0;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            background-color: transparent;
+        }
+
+        .description-column {
+            padding: 0;
+            margin: 5%;
+            background-color: transparent;
+            flex-basis: 15%;
+            box-sizing: border-box;
+        }
+
+        @media (max-width: 600px) {
+            .title-div {
+                flex-direction: column;
+            }
+            .text,
+            .image {
+                width: 100%;
+            }
+        }
     </style>
     <!--Styling embebbed into the HTML document. Effects only that document. This is not a best practice, but is fun for messing around. Styles are written 'selector { property: value; }'-->
 
@@ -149,17 +223,47 @@
 
 <body>
     <main>
-
         <div class="title-div">
-            <h1> Let's Fit!</h1>
+            <div class="text">
+                <h1> Let's Fit!</h1>
+                <p> <b> <span id="label"> DH110 2023 Spring UX Project by Yifei Sun</span> </b></p>
+                <h4 style="margin-top: 4rem;">Engage in Family Fitness through Shared Goals and Experiences </h4>
+            </div>
+            <div class="image">
+                <img src="Images/LetsFitTitle.png">
+            </div>
+        </div>
 
-            <h3> <span id="label"> DH110 2023 Spring UX Project by Yifei Sun</span></h3>
 
-            <h2 style="margin-top: 4rem;">Engaging in Family Fitness through Shared Experiences </h2>
+        <div class="description-column-container">
+            <div class="description-column">
+                <h3>Role</h3>
+                <p>UX Researcher <br>
+                    UI Designer</p>
+            </div>
 
+            <div class="description-column">
+                <h3>Time</h3>
+                <p>April-June 2023</p>
+            </div>
+
+            <div class="description-column">
+                <h3>Team</h3>
+                <p>Individual</p>
+            </div>
+
+            <div class="description-column">
+                <h3>Tools</h3>
+                <p>Figma <br>
+                    Adobe Illustrator <br>
+                    Miro
+                </p>
+            </div>
         </div>
 
         <img src="Images/LetsFitBanner.png" width="100%">
+
+
         <div>
             <h2>Introduction</h2>
             <p> LetsFit! is a family fitness mobile phone App designed to help families engage in physical activities
@@ -283,8 +387,8 @@
             </li>
 
             <li>
-                Customize fitness plans and provide tutorials for exercise that fit each family member's interest
-                and fitness
+                Customize fitness plans and provide tutorials for exercise that fit each family member's interests
+                and fitness levels
             </li>
 
             <li>
@@ -312,7 +416,7 @@
 
 
             <h3>
-                Feature 1: Customize fitness plans and tutorials that fit each family member's interest
+                Feature 1: Customize fitness plans and tutorials that fit each family member's interests
             </h3>
 
             <img src="Images/Low-Fidelity-1.png" alt="...">
