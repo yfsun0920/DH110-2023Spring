@@ -26,7 +26,7 @@
         body {
             max-width: 1280px;
             margin: auto;
-            margin-top: 8rem;
+            margin-top: 4rem;
             margin-bottom: 8rem;
             background-color: #E7E5F1;
             font-family: sans-serif;
@@ -36,18 +36,21 @@
         h1 {
             text-align: left;
             color: #34334C;
+            font-size: 4rem;
+            font-weight: bold;
         }
 
         h2 {
             text-align: left;
             color: #34334C;
-
+            margin-bottom: 2em;
         }
 
         h3 {
             text-align: left;
             color: #34334C;
-
+            margin-top: 2em;
+            margin-bottom: 1em;
         }
 
         p {
@@ -56,9 +59,23 @@
             font-size: 1rem;
         }
 
-        ul {
+        li {
             text-align: left;
+            line-height: 1.5;
             color: #34334C;
+        }
+
+        a {
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+
+            background-color: #E7E5F1;
+            border-radius: 1rem;
+
+            font-weight: bold;
+            font-size: 0.8rem;
         }
 
         a:link,
@@ -71,23 +88,59 @@
 
         a:hover,
         a:active {
-            background-color: rgb(82, 135, 184);
+            background-color: #4c439878;
         }
 
         div {
             /* max-width: 1000px; */
             margin: auto;
-            background-color: #FAF9FC;
-            margin: 4rem;
+            background-color: white;
+            margin: 5%;
+            padding-left: 10%;
+            padding-right: 10%;
+            padding-top: 5%;
+            padding-bottom: 5%;
+            border-radius: 1rem;
+            text-align: left;
+        }
+
+        .title-div {
+            margin: auto;
+            background-color: #faf9fc00;
+            margin: 2rem;
             padding: 4rem;
             border-radius: 1rem;
             text-align: left;
+
         }
 
         img {
             max-width: 100%;
             max-height: 100%;
             display: block;
+        }
+
+        #label {
+            background-color: #4C4398;
+            color: whitesmoke;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 0.5rem;
+            padding-bottom: 0.5rem;
+            border-radius: 1rem;
+        }
+
+        .center {
+            background-color: transparent;
+            display: block;
+            margin: auto;
+
+            margin: 0rem;
+            padding: 0rem;
+            border-radius: 0rem;
+            text-align: center;
+
+            margin-top: 4em;
         }
     </style>
     <!--Styling embebbed into the HTML document. Effects only that document. This is not a best practice, but is fun for messing around. Styles are written 'selector { property: value; }'-->
@@ -96,47 +149,71 @@
 
 <body>
     <main>
-        <h1> Let's Fit! </h1>
-        <h2> DH110 2023S UX Project by Yifei </a> </h2>
+
+        <div class="title-div">
+            <h1> Let's Fit!</h1>
+
+            <h3> <span id="label"> DH110 2023 Spring UX Project by Yifei Sun</span></h3>
+
+            <h2 style="margin-top: 4rem;">Engaging in Family Fitness through Shared Experiences </h2>
+
+        </div>
+
+        <img src="Images/LetsFitBanner.png" width="100%">
+        <div>
+            <h2>Introduction</h2>
+            <p> LetsFit! is a family fitness mobile phone App designed to help families engage in physical activities
+                together while fostering connection, communication, and a healthier lifestyle.
+            </p>
+            <p>
+                The app aims to appeal to a wide range of family members, with various fitness levels and interests, and
+                provides a platform to track individual and collective fitness progress.
+            </p>
+        </div>
 
         <div>
-
-            <p> LetsFit! is a Family Fitness App designed to help families engage in physical activities together while
-                fostering
-                connection, communication, and a healthier lifestyle. It offers features including monitoring family
-                members' daily
-                fitness data, providing personalized fitness plans, and incorporating gamification elements to keep
-                users motivated
-                and engaged.
+            <h2>Problem</h2>
+            <p> Family fitness becomes a critical issue as sedentary lifestyles bring concerns abouts health and
+                well-being in the post-pandemic world. Finding time and motivation for a family to engage in physical
+                activities can be challenging, especially for varied fitness levels and interests. Family fitness is
+                related to not only physical health but also emotional bonds within families. LetsFit! aims to tackle
+                this problem, promoting a healthier lifestyle and fostering stronger connections within families through
+                shared fitness experiences.
             </p>
-
         </div>
 
 
         <div>
             <h2>Competitor Analysis</h2>
-            <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/Images/Exercise-At-Home-Screenshots.png?raw=true"
-                width="1000px" alt="heuristic evaluate site image">
+            <img src="Images/Competitive Analysis.png" width="1000px" alt="heuristic evaluate site image">
 
-            <h3>App Analysis 1: Exercise: At Home Workout App</h3>
+            <h3>Heuristics Evaluations</h3>
 
-            <p> Developed by a game company, the app mainly adopts gamification method to create a fun
-                and engaging experience of workouts with cute avatars, animations and achievement system. Overall it
-                reveals a good user experience design. It has well-organized layouts with a clear navigation system. The
-                visual design is appealing, using bright and energetic colors. All these consistent elements are great
-                fit
-                for children as well as their parents as their targeted users. </p>
+            <p> I conducted heuristics evaluation of two current family fitness Apps. The two apps both have good design
+                decisions that effectively foster family engagement and physical activity, and also areas for
+                improvement. </p>
 
-            <h3> App Analysis 2: Geocaching </h3>
+            <h3> Usability Testing </h3>
 
-            <p> Geocaching is an excellent tool for families looking to bond, stay active, and explore
-                the outdoors
-                together. It provides a unique experience that can strengthen family connections while offering
-                educational
-                and recreational benefits. The app encourages families to be physically active as they search for
-                geocaches,
-                combining exercise with the excitement of treasure hunting. It accommodates a wide range of ages and
-                abilities, making it an inclusive activity for the whole family.</p>
+            <p>
+                Usability testing collects empirical data from the observation on how the users interact with the
+                product. I conducted one for the Exercise: At Home Workout App to gain
+                feedback and measure overall user experience of the competitor.
+            </p>
+
+            <p>
+                The user could navigate the app smoothly, indicating the intuitiveness of the app design. However,
+                improvements could be made to increase overall design consistency. The app's gamification elements were
+                received positively, underlining the engagement aspect of the design.
+            </p>
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer"
+                    href="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A01/README.md">Read
+                    More</a>
+            </div>
+
+
         </div>
 
 
@@ -146,120 +223,196 @@
 
             <h2>UX Research</h2>
             <p>
-                Through the research process, I built empathy with my participant and tried to understand her by putting
-                myself into her situation. By understanding from her perspectives I tried to give up all the
-                preassumptions I had before. I learned about the needs, preferences, and challenges families face when
-                engaging in fitness activities together. Personalization and flexibility become important to keep all
-                family members motivated. I also gained insights into the role technology playing both positive and
-                probably negative effects on family connection. Whereas it can play in supporting family fitness
-                activities and bridging gaps in motivation and communication for long distance, it might interfere the
-                connecting experience spending time with families in person.
+                I used context inquiry research methodology that combined participatory observation with an interview
+                approach. I observed user activities related to family fitness, followed by in-depth discussions to
+                understand user needs, preferences, and challenges. I found out the importance of personalization and
+                flexibility in family fitness routines, and how technology can bridge the gap of families living apart.
             </p>
+
+            <h3>
+                "How might we design an engaging, intuitive family fitness app that fosters personalization, encourages
+                shared experiences and progress tracking to enhance connection and promote a healthy lifestyle?"
+            </h3>
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer"
+                    href="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A03/README.md">Read
+                    More</a>
+            </div>
+
         </div>
 
 
 
         <div>
             <h2>UX Storytelling</h2>
+
+            <p>
+                The purpose of UX storytelling is to create a narrative that illustrates how the family fitness app can
+                be used to achieve goals and motivations of each persona.
+            </p>
+
+            <p>
+                The target users are family members of different ages, fitness levels, and interests, who seek to
+                improve their well-being, stay connected, and motivate each other in their fitness journeys. I created
+                personas and scenarios centered around features that would reach their goals.
+            </p>
+
+            <h3> 1. An elderly man who cares about his children and grandchildren's well-being and wants to stay active
+                himself</h3>
             <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A04/Images/Harold's%20Persona.png?raw=true"
                 alt="...">
+
+            <h3> 2. A busy working mother who aims to improve the overall health of the family and set a positive
+                example for her children</h3>
+
             <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A04/Images/Jessica's%20Persona.png?raw=true"
                 alt="...">
+
+            <h3> 3. A middle school boy who loves to play team sports and wants to spend more time with his parents
+            </h3>
+
             <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A04/Images/Tommy's%20Persona.png?raw=true"
                 alt="...">
 
-            <p>The target users are family members of different ages, fitness levels, and
-                interests,
-                who seek to improve their well-being, stay connected, and motivate each other in their fitness
-                journeys. I
-                created personas and scenarios centered around features that would solve each research question.
+            <h3>Design Features </h3>
 
-                <li>
-                    A middle school boy who loves to play team sports and wants to spend more time with his parents.
-                </li>
+            <li>
+                Display daily fitness data of all family members (eg.how many steps walked, calories moved, minutes
+                of exercise)
+            </li>
 
-                <li>
-                    A busy working mother who aims to improve the overall health of the family and set a positive
-                    example
-                    for her children.
-                </li>
+            <li>
+                Customize fitness plans and provide tutorials for exercise that fit each family member's interest
+                and fitness
+            </li>
 
-                <li>
-                    An elderly man who cares about his children and grandchildren's well-being and wants to stay
-                    active
-                    himself.
-                </li>
-            </p>
-        </div>
-
-
-        <div>
-            <h2 class="card-title"> Low-Fidelity Prototype </h2>
-            <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A05/Images/Low-fidelity.png?raw=true"
-                alt="...">
-
-            <h3>Features</h3>
-            <p>
-                1. Display daily fitness data of all family members and communicate effectively
-                <li>Select which family's member's data to view</li>
-                <li>View fitness data such as how many steps walked on that day</li>
-                <li>Send message to the family member and remind to complete daily fitness goal</li>
-            </p>
-
-            <p>
-                2. Customize fitness plans and provide tutorials for exercise that fit each family member's interest and
-                fitness
-                <li> Input basic info and fitness goal for a family member</li>
-                <li> Generate a fitness plan for the family member</li>
-                <li>Add the plan to a shared family calendar</li>
-            </p>
-
-            <p>
-                3. Incorporate gamification elements, such as competition and badges, to motivate family members to
+            <li>
+                Incorporate gamification elements, such as competition and badges, to motivate family members to
                 engaged in more activities
-                <li> Look at a leader board and know the rank of daily steps</li>
-                <li> See recent activities of other family members</li>
-                <li> Like the post and encourage them to keep progress</li>
-                <li>Gain beautiful badges from achieving certain accomplishments</li>
+            </li>
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer"
+                    href="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A04/README.md">Read
+                    More</a>
+            </div>
+
+        </div>
+
+
+        <div>
+            <h2> Low-Fidelity Prototype </h2>
+            <p>
+                Based on the features I planned in personas and scenarios, I created a low-fidelity prototype that gives
+                a simple visual representation of the app's layout, content, structure, and functionality. I also test
+                the wireflow with a participant to identify potential usability issues, and evaluate whether it meets
+                the goals of the target users at an early stage.
             </p>
 
+
+            <h3>
+                Feature 1: Customize fitness plans and tutorials that fit each family member's interest
+            </h3>
+
+            <img src="Images/Low-Fidelity-1.png" alt="...">
+
+
+            <h3>
+                Feature 2: Incorporate gamification elements to increase motivation
+            </h3>
+
+            <img src="Images/Low-Fidelity-2.png" alt="...">
+
+
+            <h3>
+                Feature 3: Display daily fitness data of all family members and communicate effectively
+            </h3>
+
+            <img src="Images/Low-Fidelity-3.png" alt="...">
+
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer"
+                    href="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A05/README.md">Read
+                    More</a>
+            </div>
 
         </div>
 
 
 
-
         <div>
-            <h2>Wireframe + Interface Design</h2>
-            <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A06/Images/Main.png?raw=true"
-                alt="...">
+            <h2>Design System</h2>
 
-            <p>The wireframe for this family fitness app was designed to be simple and
-                intuitive,reflecting the needs and preferences of the user personas. It featured a clean layout with
-                clear navigation options, ensuring users could easily find and use the app's various features.
+
+            <p>Considering user needs and preferences, I select the color palette and typography that both aligns with
+                the app's goals and enhances user experience. Shape and layout decisions are made to facilitate
+                intuitive navigation. I also take considerations on how different elements interact with consistency and
+                guide the user through the interface.
             </p>
+
+            <p>
+                The primary color selected is purple, symbolizing energy and playfulness. I choose Poppins as the font
+                for its readability and approachability. It looks better considering the overall aesthetics for its
+                rounded edges. Shapes in the interface were primarily rounded rectangles with a large corner radius,
+                adding to the app's friendly feel.
+            </p>
+
+            <img src="Images/Design System.png">
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer"
+                    href="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A06/README.md">Read
+                    More</a>
+            </div>
 
         </div>
 
 
+        <div>
+            <h2> High-fidelity prototype </h2>
+
+            <p>High-fidelity interactive prototypes involve incorporating the final decisions on visual design elements
+                including color palette, typography, shapes, and layout. The goal is to make the prototype as close to
+                the final product as possible in terms of look, feel, and interaction.
+            </p>
+
+            <div class="center">
+                <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600"
+                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmoFDPg2xgv1G4evtUB07uD%2FLetsFit!-High-Fidelity-Prototype%3Fpage-id%3D72%253A318%26type%3Ddesign%26node-id%3D72-1996%26viewport%3D908%252C778%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D72%253A499"
+                    allowfullscreen></iframe>
+            </div>
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer"
+                    href="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A07/README.md">Read
+                    More</a>
+            </div>
+        </div>
 
         <div>
-            <h2 class="card-title"> High-fidelity prototype </h2>
-            <img src="https://github.com/yfsun0920/DH110-2023Spring/blob/main/Assignments/A07/Images/Figma%20Prototype.png?raw=true"
-                alt="...">
+            <h2>Usability Testing</h2>
 
-            <p>The process begins with the translation of low-fidelity wireframes into
-                high-fidelity interactive prototypes. This involves incorporating the final decisions on visual design
-                elements such as color palette, typography, shapes, and layout. The goal is to make the prototype as
-                close to the final product as possible in terms of look, feel, and interaction. Once the
-                high-fidelity prototype is created, it undergoes a cognitive walkthrough. Feedback is collected,
-                analyzed, and used to iterate the design. The prototype is refined to ensure that the final product is
-                user-centered, effective, and delightful to use.
+            <p>
+                I conducted a cognitive walkthrough usability test to ask a participant to go over the tasks in the app
+                following each step. The participant was able to navigate through all tasks smoothly, indicating that
+                the user flow and interface are intuitive and easy to follow. However, there is some confusion when
+                navigating the Plan page and the calendar.
             </p>
+
+            <img src="Images/Revise-1.png" style="margin-top: 4em;">
+            <img src="Images/Revise-2.png">
+
+            <div class="center">
+                <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/B42TCDAJSf8">Read
+                    More</a>
+            </div>
         </div>
 
 
         <div>
+            <h2>Pitch Video</h2>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/B42TCDAJSf8"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -269,15 +422,49 @@
         <div>
             <h2>Reflection</h2>
             <p>
-                Here is my reflection.
+                Overall I learned a lot during the process of making this family fitness app. This is my first time
+                working alone on an individual ux project. It is somehow different from my experience working with a
+                team of project managers and developers. I make decisions on the product based on my observations and
+                interactions with user research participants or potential users.
+            </p>
+
+            <h3>
+                Conduct user research with different methods and support design decisions.
+            </h3>
+
+            <p>
+                Throughout the project, I learned about the importance of diverse user research methodologies, including
+                context inquiry, impression test, cognitive walkthrough, etc. I understood that the selection of
+                research methods varies depending on the project's phase and the information needed. The research
+                findings formed the backbone of my design decisions. Instead of relying solely on assumptions or
+                personal preferences, I was able to ground my decisions in real user needs and behaviors, ensuring that
+                the design was truly user-centric.
+            </p>
+
+            <h3>
+                Design is human-centered.
+            </h3>
+
+            <p>
+                I found design to be deeply intuitive. It went beyond just applying principles and theories while
+                focusing on users' emotions and experiences. It required me to tune into the user's perspective and
+                empathetically understand their needs, pain points, and desires. This intuitive understanding enabled me
+                to create a design that was not only efficient and practical but also engaging for the users. Creating
+                design as an empathetic and intuitive process has profoundly influenced my approach to UX design.
+            </p>
+
+            <h3>
+                Design is an iterative process.
+            </h3>
+
+            <p>
+                Through this project, I realized that design is not about reaching a perfect solution at the first try
+                but about continuously refining and improving based on feedback and testing results. Each iteration
+                brought new insights and opportunities for enhancement, making the design aligned with the users' needs
+                and expectations. This iterative process contributed to the development of my family fitness app to
+                ensure an effective and easy-to-use outcome.
             </p>
         </div>
-
-
-        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600"
-            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmoFDPg2xgv1G4evtUB07uD%2FLetsFit!-High-Fidelity-Prototype%3Fpage-id%3D72%253A318%26type%3Ddesign%26node-id%3D72-499%26viewport%3D908%252C778%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D72%253A499"
-            allowfullscreen>
-        </iframe>
 
     </main>
 </body>
