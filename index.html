@@ -63,6 +63,7 @@
             margin-bottom: 1em;
             font-size: 1.2rem;
             font-weight: 600;
+            line-height: 1.8;
         }
 
         h4 {
@@ -76,7 +77,7 @@
 
         p {
             color: #34334C;
-            line-height: 1.5;
+            line-height: 2;
             font-size: 1rem;
         }
 
@@ -95,7 +96,7 @@
             background-color: #E7E5F1;
             border-radius: 1rem;
 
-            font-weight: bold;
+            font-weight: 600;
             font-size: 0.8rem;
         }
 
@@ -188,6 +189,20 @@
             margin-top: 4em;
         }
 
+        .row {
+            margin: 0;
+            padding: 0;
+            background-color: transparent;
+            display: flex;
+        }
+
+        .column {
+            margin: 0;
+            padding: 0;
+            background-color: transparent;
+            flex: 50%;
+        }
+
         .description-column-container {
             max-width: 900px;
             margin: auto;
@@ -211,6 +226,7 @@
             .title-div {
                 flex-direction: column;
             }
+
             .text,
             .image {
                 width: 100%;
@@ -225,9 +241,10 @@
     <main>
         <div class="title-div">
             <div class="text">
+                <img src="Images/logo.png" width="100">
                 <h1> Let's Fit!</h1>
                 <p> <b> <span id="label"> DH110 2023 Spring UX Project by Yifei Sun</span> </b></p>
-                <h4 style="margin-top: 4rem;">Engage in Family Fitness through Shared Goals and Experiences </h4>
+                <h4 style="margin-top: 2em;">Engage in Family Fitness through Shared Goals and Experiences </h4>
             </div>
             <div class="image">
                 <img src="Images/LetsFitTitle.png">
@@ -266,8 +283,9 @@
 
         <div>
             <h2>Introduction</h2>
-            <p> LetsFit! is a family fitness mobile phone App designed to help families engage in physical activities
-                together while fostering connection, communication, and a healthier lifestyle.
+            <p>
+                LetsFit! is a mobile phone App designed to help families engage in physical activities together while
+                fostering connection, communication, and a healthier lifestyle.
             </p>
             <p>
                 The app aims to appeal to a wide range of family members, with various fitness levels and interests, and
@@ -277,13 +295,29 @@
 
         <div>
             <h2>Problem</h2>
-            <p> Family fitness becomes a critical issue as sedentary lifestyles bring concerns abouts health and
-                well-being in the post-pandemic world. Finding time and motivation for a family to engage in physical
-                activities can be challenging, especially for varied fitness levels and interests. Family fitness is
-                related to not only physical health but also emotional bonds within families. LetsFit! aims to tackle
-                this problem, promoting a healthier lifestyle and fostering stronger connections within families through
-                shared fitness experiences.
-            </p>
+
+            <div class="row">
+                <div class="column">
+                    <p>
+                        Family fitness becomes a critical issue in the post-pandemic world. Sedentary lifestyles bring
+                        concerns
+                        about health and well-being. Finding time and motivation for a family to engage in physical
+                        activities
+                        can be challenging, especially for varied fitness levels and interests. Family fitness is
+                        related to not
+                        only physical health but also emotional bonds within families. LetsFit! aims to tackle this
+                        problem,
+                        promoting a healthier lifestyle and fostering stronger connections within families through
+                        shared
+                        fitness experiences.
+                    </p>
+                </div>
+
+                <div class="column">
+                    <img src="Images/problem.png">
+                </div>
+            </div>
+
         </div>
 
 
@@ -293,22 +327,24 @@
 
             <h3>Heuristics Evaluations</h3>
 
-            <p> I conducted heuristics evaluation of two current family fitness Apps. The two apps both have good design
+            <p>
+                I conducted heuristics evaluation of two current family fitness Apps. The two apps both have good design
                 decisions that effectively foster family engagement and physical activity, and also areas for
-                improvement. </p>
+                improvement.
+            </p>
 
             <h3> Usability Testing </h3>
 
             <p>
                 Usability testing collects empirical data from the observation on how the users interact with the
-                product. I conducted one for the Exercise: At Home Workout App to gain
-                feedback and measure overall user experience of the competitor.
+                product. I conducted usability testing on the Exercise: At Home Workout App to gain feedback and measure
+                overall user experience.
             </p>
 
             <p>
-                The user could navigate the app smoothly, indicating the intuitiveness of the app design. However,
-                improvements could be made to increase overall design consistency. The app's gamification elements were
-                received positively, underlining the engagement aspect of the design.
+                The user could navigate the app smoothly, indicating the intuitiveness of the app design. The app's
+                gamification elements were received positively. However, the overall design consistency still needs to
+                be improved.
             </p>
 
             <div class="center">
@@ -323,18 +359,29 @@
 
 
         <div>
-            <img src="./sample300x300.png" class="card-img-top" alt="...">
 
             <h2>UX Research</h2>
-            <p>
-                I used context inquiry research methodology that combined participatory observation with an interview
-                approach. I observed user activities related to family fitness, followed by in-depth discussions to
-                understand user needs, preferences, and challenges. I found out the importance of personalization and
-                flexibility in family fitness routines, and how technology can bridge the gap of families living apart.
-            </p>
+
+            <div class="row">
+                <div class="column">
+                    <p>
+                        I used context inquiry research methodology that combined participatory observation with an
+                        interview approach. I observed the participant’s activities related to family fitness, followed
+                        by in-depth discussions to understand user needs, preferences, and challenges. I found out the
+                        importance of personalization and flexibility in family fitness routines, and how technology can
+                        bridge the gap of families living apart.
+                    </p>
+                </div>
+
+                <div class="column">
+                    <img src="Images/ux-research.png">
+                </div>
+
+            </div>
+
 
             <h3>
-                "How might we design an engaging, intuitive family fitness app that fosters personalization, encourages
+                "How might we design an engaging, intuitive family fitness app that promotes personalization, encourages
                 shared experiences and progress tracking to enhance connection and promote a healthy lifestyle?"
             </h3>
 
@@ -352,14 +399,12 @@
             <h2>UX Storytelling</h2>
 
             <p>
-                The purpose of UX storytelling is to create a narrative that illustrates how the family fitness app can
-                be used to achieve goals and motivations of each persona.
+                The target users are family members of different ages, fitness levels, and interests, who seek to
+                improve their well-being, stay connected, and motivate each other in their fitness journeys.
             </p>
 
             <p>
-                The target users are family members of different ages, fitness levels, and interests, who seek to
-                improve their well-being, stay connected, and motivate each other in their fitness journeys. I created
-                personas and scenarios centered around features that would reach their goals.
+                I created personas and scenarios centered around features that would reach their goals.
             </p>
 
             <h3> 1. An elderly man who cares about his children and grandchildren's well-being and wants to stay active
@@ -381,20 +426,7 @@
 
             <h3>Design Features </h3>
 
-            <li>
-                Display daily fitness data of all family members (eg.how many steps walked, calories moved, minutes
-                of exercise)
-            </li>
-
-            <li>
-                Customize fitness plans and provide tutorials for exercise that fit each family member's interests
-                and fitness levels
-            </li>
-
-            <li>
-                Incorporate gamification elements, such as competition and badges, to motivate family members to
-                engaged in more activities
-            </li>
+            <img src="Images/Persona-Features.png">
 
             <div class="center">
                 <a target="_blank" rel="noopener noreferrer"
@@ -450,7 +482,8 @@
             <h2>Design System</h2>
 
 
-            <p>Considering user needs and preferences, I select the color palette and typography that both aligns with
+            <p>
+                Considering user needs and preferences, I select the color palette and typography that both aligns with
                 the app's goals and enhances user experience. Shape and layout decisions are made to facilitate
                 intuitive navigation. I also take considerations on how different elements interact with consistency and
                 guide the user through the interface.
@@ -483,9 +516,11 @@
             </p>
 
             <div class="center">
+
                 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600"
-                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmoFDPg2xgv1G4evtUB07uD%2FLetsFit!-High-Fidelity-Prototype%3Fpage-id%3D72%253A318%26type%3Ddesign%26node-id%3D72-1996%26viewport%3D908%252C778%252C0.24%26scaling%3Dscale-down%26starting-point-node-id%3D72%253A499"
+                    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FmoFDPg2xgv1G4evtUB07uD%2FLetsFit!-High-Fidelity-Prototype%3Fpage-id%3D72%253A318%26type%3Ddesign%26node-id%3D72-499%26viewport%3D631%252C-838%252C0.25%26scaling%3Dscale-down%26starting-point-node-id%3D72%253A499"
                     allowfullscreen></iframe>
+
             </div>
 
             <div class="center">
@@ -515,19 +550,19 @@
         </div>
 
 
-        <div>
+        <!-- <div>
             <h2>Pitch Video</h2>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/B42TCDAJSf8"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
-        </div>
+        </div> -->
 
         <div>
             <h2>Reflection</h2>
             <p>
                 Overall I learned a lot during the process of making this family fitness app. This is my first time
-                working alone on an individual ux project. It is somehow different from my experience working with a
+                working alone on an individual UX project. It is somehow different from my experience working with a
                 team of project managers and developers. I make decisions on the product based on my observations and
                 interactions with user research participants or potential users.
             </p>
@@ -542,7 +577,7 @@
                 research methods varies depending on the project's phase and the information needed. The research
                 findings formed the backbone of my design decisions. Instead of relying solely on assumptions or
                 personal preferences, I was able to ground my decisions in real user needs and behaviors, ensuring that
-                the design was truly user-centric.
+                the design was user-centric.
             </p>
 
             <h3>
@@ -553,8 +588,7 @@
                 I found design to be deeply intuitive. It went beyond just applying principles and theories while
                 focusing on users' emotions and experiences. It required me to tune into the user's perspective and
                 empathetically understand their needs, pain points, and desires. This intuitive understanding enabled me
-                to create a design that was not only efficient and practical but also engaging for the users. Creating
-                design as an empathetic and intuitive process has profoundly influenced my approach to UX design.
+                to create a design that was not only efficient and practical but also engaging for the users.
             </p>
 
             <h3>
@@ -566,7 +600,7 @@
                 but about continuously refining and improving based on feedback and testing results. Each iteration
                 brought new insights and opportunities for enhancement, making the design aligned with the users' needs
                 and expectations. This iterative process contributed to the development of my family fitness app to
-                ensure an effective and easy-to-use outcome.
+                ensure a better outcome.
             </p>
         </div>
 
